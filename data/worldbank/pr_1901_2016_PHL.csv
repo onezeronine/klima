@@ -1,1393 +1,1393 @@
-rainfall_mm, year, month, country, ISO3
-84.8271, 1901, Jan, Philippines, PHL
-130.146, 1901, Feb, Philippines, PHL
-113.285, 1901, Mar, Philippines, PHL
-82.0298, 1901, Apr, Philippines, PHL
-153.515, 1901, May, Philippines, PHL
-191.357, 1901, Jun, Philippines, PHL
-235.544, 1901, Jul, Philippines, PHL
-286.227, 1901, Aug, Philippines, PHL
-182.644, 1901, Sep, Philippines, PHL
-431.892, 1901, Oct, Philippines, PHL
-452.221, 1901, Nov, Philippines, PHL
-247.594, 1901, Dec, Philippines, PHL
-228.098, 1902, Jan, Philippines, PHL
-77.0102, 1902, Feb, Philippines, PHL
-87.9955, 1902, Mar, Philippines, PHL
-108.79, 1902, Apr, Philippines, PHL
-169.797, 1902, May, Philippines, PHL
-235.084, 1902, Jun, Philippines, PHL
-316.454, 1902, Jul, Philippines, PHL
-336.541, 1902, Aug, Philippines, PHL
-304.583, 1902, Sep, Philippines, PHL
-170.598, 1902, Oct, Philippines, PHL
-156.351, 1902, Nov, Philippines, PHL
-158.788, 1902, Dec, Philippines, PHL
-108.811, 1903, Jan, Philippines, PHL
-81.7573, 1903, Feb, Philippines, PHL
-29.6247, 1903, Mar, Philippines, PHL
-66.8856, 1903, Apr, Philippines, PHL
-152.552, 1903, May, Philippines, PHL
-206.134, 1903, Jun, Philippines, PHL
-241.052, 1903, Jul, Philippines, PHL
-186.475, 1903, Aug, Philippines, PHL
-225.016, 1903, Sep, Philippines, PHL
-323.011, 1903, Oct, Philippines, PHL
-270.393, 1903, Nov, Philippines, PHL
-254.738, 1903, Dec, Philippines, PHL
-230.432, 1904, Jan, Philippines, PHL
-167.868, 1904, Feb, Philippines, PHL
-77.7468, 1904, Mar, Philippines, PHL
-175.88, 1904, Apr, Philippines, PHL
-174.21, 1904, May, Philippines, PHL
-319.629, 1904, Jun, Philippines, PHL
-320.697, 1904, Jul, Philippines, PHL
-317.769, 1904, Aug, Philippines, PHL
-235.234, 1904, Sep, Philippines, PHL
-279.757, 1904, Oct, Philippines, PHL
-252.547, 1904, Nov, Philippines, PHL
-104.164, 1904, Dec, Philippines, PHL
-43.1627, 1905, Jan, Philippines, PHL
-45.7115, 1905, Feb, Philippines, PHL
-75.7852, 1905, Mar, Philippines, PHL
-70.9413, 1905, Apr, Philippines, PHL
-154.31, 1905, May, Philippines, PHL
-321.152, 1905, Jun, Philippines, PHL
-373.126, 1905, Jul, Philippines, PHL
-305.097, 1905, Aug, Philippines, PHL
-312.652, 1905, Sep, Philippines, PHL
-213.795, 1905, Oct, Philippines, PHL
-117.311, 1905, Nov, Philippines, PHL
-144.744, 1905, Dec, Philippines, PHL
-124.667, 1906, Jan, Philippines, PHL
-53.8727, 1906, Feb, Philippines, PHL
-95.2109, 1906, Mar, Philippines, PHL
-87.056, 1906, Apr, Philippines, PHL
-287.551, 1906, May, Philippines, PHL
-254.016, 1906, Jun, Philippines, PHL
-226.104, 1906, Jul, Philippines, PHL
-302.484, 1906, Aug, Philippines, PHL
-378.428, 1906, Sep, Philippines, PHL
-303.821, 1906, Oct, Philippines, PHL
-355.523, 1906, Nov, Philippines, PHL
-149.284, 1906, Dec, Philippines, PHL
-169.69, 1907, Jan, Philippines, PHL
-152.576, 1907, Feb, Philippines, PHL
-94.4348, 1907, Mar, Philippines, PHL
-76.8141, 1907, Apr, Philippines, PHL
-113.534, 1907, May, Philippines, PHL
-190.454, 1907, Jun, Philippines, PHL
-310.639, 1907, Jul, Philippines, PHL
-317.836, 1907, Aug, Philippines, PHL
-239.076, 1907, Sep, Philippines, PHL
-223.074, 1907, Oct, Philippines, PHL
-164.783, 1907, Nov, Philippines, PHL
-278.27, 1907, Dec, Philippines, PHL
-137.741, 1908, Jan, Philippines, PHL
-197.617, 1908, Feb, Philippines, PHL
-122.998, 1908, Mar, Philippines, PHL
-76.5703, 1908, Apr, Philippines, PHL
-268.495, 1908, May, Philippines, PHL
-278.382, 1908, Jun, Philippines, PHL
-299.518, 1908, Jul, Philippines, PHL
-264.829, 1908, Aug, Philippines, PHL
-320.381, 1908, Sep, Philippines, PHL
-303.188, 1908, Oct, Philippines, PHL
-363.898, 1908, Nov, Philippines, PHL
-335.438, 1908, Dec, Philippines, PHL
-118.441, 1909, Jan, Philippines, PHL
-113.46, 1909, Feb, Philippines, PHL
-156.789, 1909, Mar, Philippines, PHL
-64.4346, 1909, Apr, Philippines, PHL
-179.671, 1909, May, Philippines, PHL
-223.807, 1909, Jun, Philippines, PHL
-367.313, 1909, Jul, Philippines, PHL
-198.336, 1909, Aug, Philippines, PHL
-318.264, 1909, Sep, Philippines, PHL
-327.256, 1909, Oct, Philippines, PHL
-320.256, 1909, Nov, Philippines, PHL
-312.176, 1909, Dec, Philippines, PHL
-154.448, 1910, Jan, Philippines, PHL
-184.381, 1910, Feb, Philippines, PHL
-149.892, 1910, Mar, Philippines, PHL
-193.839, 1910, Apr, Philippines, PHL
-237.784, 1910, May, Philippines, PHL
-254.756, 1910, Jun, Philippines, PHL
-149.656, 1910, Jul, Philippines, PHL
-311.249, 1910, Aug, Philippines, PHL
-352.572, 1910, Sep, Philippines, PHL
-262.67, 1910, Oct, Philippines, PHL
-343.91, 1910, Nov, Philippines, PHL
-288.264, 1910, Dec, Philippines, PHL
-73.2536, 1911, Jan, Philippines, PHL
-149.834, 1911, Feb, Philippines, PHL
-89.0535, 1911, Mar, Philippines, PHL
-170.668, 1911, Apr, Philippines, PHL
-167.57, 1911, May, Philippines, PHL
-261.364, 1911, Jun, Philippines, PHL
-449.765, 1911, Jul, Philippines, PHL
-364.226, 1911, Aug, Philippines, PHL
-315.817, 1911, Sep, Philippines, PHL
-189.9, 1911, Oct, Philippines, PHL
-65.0672, 1911, Nov, Philippines, PHL
-168.706, 1911, Dec, Philippines, PHL
-95.3455, 1912, Jan, Philippines, PHL
-92.7969, 1912, Feb, Philippines, PHL
-26.994, 1912, Mar, Philippines, PHL
-61.5185, 1912, Apr, Philippines, PHL
-67.9246, 1912, May, Philippines, PHL
-160.71, 1912, Jun, Philippines, PHL
-324.515, 1912, Jul, Philippines, PHL
-326.313, 1912, Aug, Philippines, PHL
-308.621, 1912, Sep, Philippines, PHL
-343.614, 1912, Oct, Philippines, PHL
-272.365, 1912, Nov, Philippines, PHL
-131.962, 1912, Dec, Philippines, PHL
-151.785, 1913, Jan, Philippines, PHL
-90.4329, 1913, Feb, Philippines, PHL
-64.8166, 1913, Mar, Philippines, PHL
-110.012, 1913, Apr, Philippines, PHL
-182.232, 1913, May, Philippines, PHL
-249.61, 1913, Jun, Philippines, PHL
-393.048, 1913, Jul, Philippines, PHL
-308.517, 1913, Aug, Philippines, PHL
-219.846, 1913, Sep, Philippines, PHL
-268.557, 1913, Oct, Philippines, PHL
-144.924, 1913, Nov, Philippines, PHL
-178.876, 1913, Dec, Philippines, PHL
-73.3958, 1914, Jan, Philippines, PHL
-29.4569, 1914, Feb, Philippines, PHL
-84.2146, 1914, Mar, Philippines, PHL
-80.2112, 1914, Apr, Philippines, PHL
-172.387, 1914, May, Philippines, PHL
-413.154, 1914, Jun, Philippines, PHL
-221.012, 1914, Jul, Philippines, PHL
-373.741, 1914, Aug, Philippines, PHL
-283.089, 1914, Sep, Philippines, PHL
-158.558, 1914, Oct, Philippines, PHL
-101.386, 1914, Nov, Philippines, PHL
-108.953, 1914, Dec, Philippines, PHL
-92.9292, 1915, Jan, Philippines, PHL
-23.2109, 1915, Feb, Philippines, PHL
-47.8448, 1915, Mar, Philippines, PHL
-50.5363, 1915, Apr, Philippines, PHL
-173.275, 1915, May, Philippines, PHL
-264.638, 1915, Jun, Philippines, PHL
-260.034, 1915, Jul, Philippines, PHL
-265.472, 1915, Aug, Philippines, PHL
-225.378, 1915, Sep, Philippines, PHL
-373.539, 1915, Oct, Philippines, PHL
-276.679, 1915, Nov, Philippines, PHL
-320.813, 1915, Dec, Philippines, PHL
-331.455, 1916, Jan, Philippines, PHL
-175.729, 1916, Feb, Philippines, PHL
-132.324, 1916, Mar, Philippines, PHL
-109.385, 1916, Apr, Philippines, PHL
-212.783, 1916, May, Philippines, PHL
-278.754, 1916, Jun, Philippines, PHL
-250.492, 1916, Jul, Philippines, PHL
-262.008, 1916, Aug, Philippines, PHL
-368.049, 1916, Sep, Philippines, PHL
-334.169, 1916, Oct, Philippines, PHL
-211.682, 1916, Nov, Philippines, PHL
-261.949, 1916, Dec, Philippines, PHL
-203.996, 1917, Jan, Philippines, PHL
-125.78, 1917, Feb, Philippines, PHL
-139.26, 1917, Mar, Philippines, PHL
-104.449, 1917, Apr, Philippines, PHL
-218.916, 1917, May, Philippines, PHL
-323.533, 1917, Jun, Philippines, PHL
-293.858, 1917, Jul, Philippines, PHL
-251.145, 1917, Aug, Philippines, PHL
-288.205, 1917, Sep, Philippines, PHL
-307.2, 1917, Oct, Philippines, PHL
-292.907, 1917, Nov, Philippines, PHL
-203.626, 1917, Dec, Philippines, PHL
-234.401, 1918, Jan, Philippines, PHL
-151.401, 1918, Feb, Philippines, PHL
-153.706, 1918, Mar, Philippines, PHL
-102.739, 1918, Apr, Philippines, PHL
-157.258, 1918, May, Philippines, PHL
-434.132, 1918, Jun, Philippines, PHL
-204.881, 1918, Jul, Philippines, PHL
-299.753, 1918, Aug, Philippines, PHL
-203.528, 1918, Sep, Philippines, PHL
-296.987, 1918, Oct, Philippines, PHL
-114.451, 1918, Nov, Philippines, PHL
-159.266, 1918, Dec, Philippines, PHL
-63.172, 1919, Jan, Philippines, PHL
-65.5647, 1919, Feb, Philippines, PHL
-54.8719, 1919, Mar, Philippines, PHL
-56.396, 1919, Apr, Philippines, PHL
-168.055, 1919, May, Philippines, PHL
-217.903, 1919, Jun, Philippines, PHL
-532.758, 1919, Jul, Philippines, PHL
-287.79, 1919, Aug, Philippines, PHL
-216.947, 1919, Sep, Philippines, PHL
-324.995, 1919, Oct, Philippines, PHL
-249.43, 1919, Nov, Philippines, PHL
-203.57, 1919, Dec, Philippines, PHL
-142.428, 1920, Jan, Philippines, PHL
-123.241, 1920, Feb, Philippines, PHL
-64.6686, 1920, Mar, Philippines, PHL
-71.6909, 1920, Apr, Philippines, PHL
-131.316, 1920, May, Philippines, PHL
-351.997, 1920, Jun, Philippines, PHL
-263.919, 1920, Jul, Philippines, PHL
-177.754, 1920, Aug, Philippines, PHL
-310.476, 1920, Sep, Philippines, PHL
-240.704, 1920, Oct, Philippines, PHL
-205.154, 1920, Nov, Philippines, PHL
-206.427, 1920, Dec, Philippines, PHL
-151.043, 1921, Jan, Philippines, PHL
-170.707, 1921, Feb, Philippines, PHL
-149.316, 1921, Mar, Philippines, PHL
-113.365, 1921, Apr, Philippines, PHL
-194.834, 1921, May, Philippines, PHL
-241.068, 1921, Jun, Philippines, PHL
-408.9, 1921, Jul, Philippines, PHL
-293.847, 1921, Aug, Philippines, PHL
-277.249, 1921, Sep, Philippines, PHL
-208.442, 1921, Oct, Philippines, PHL
-426.656, 1921, Nov, Philippines, PHL
-191.568, 1921, Dec, Philippines, PHL
-155.856, 1922, Jan, Philippines, PHL
-113.7, 1922, Feb, Philippines, PHL
-107.135, 1922, Mar, Philippines, PHL
-74.4525, 1922, Apr, Philippines, PHL
-254.668, 1922, May, Philippines, PHL
-243.245, 1922, Jun, Philippines, PHL
-316.328, 1922, Jul, Philippines, PHL
-322.445, 1922, Aug, Philippines, PHL
-342.063, 1922, Sep, Philippines, PHL
-234.156, 1922, Oct, Philippines, PHL
-303.319, 1922, Nov, Philippines, PHL
-242.041, 1922, Dec, Philippines, PHL
-245.111, 1923, Jan, Philippines, PHL
-104.085, 1923, Feb, Philippines, PHL
-126.578, 1923, Mar, Philippines, PHL
-128.837, 1923, Apr, Philippines, PHL
-334.405, 1923, May, Philippines, PHL
-301.746, 1923, Jun, Philippines, PHL
-553.07, 1923, Jul, Philippines, PHL
-272.839, 1923, Aug, Philippines, PHL
-223.096, 1923, Sep, Philippines, PHL
-177.845, 1923, Oct, Philippines, PHL
-272.167, 1923, Nov, Philippines, PHL
-76.9274, 1923, Dec, Philippines, PHL
-107.576, 1924, Jan, Philippines, PHL
-88.8182, 1924, Feb, Philippines, PHL
-107.401, 1924, Mar, Philippines, PHL
-69.0489, 1924, Apr, Philippines, PHL
-189.565, 1924, May, Philippines, PHL
-309.348, 1924, Jun, Philippines, PHL
-355.952, 1924, Jul, Philippines, PHL
-316.629, 1924, Aug, Philippines, PHL
-204.947, 1924, Sep, Philippines, PHL
-402.225, 1924, Oct, Philippines, PHL
-375.118, 1924, Nov, Philippines, PHL
-354.412, 1924, Dec, Philippines, PHL
-127.991, 1925, Jan, Philippines, PHL
-186.753, 1925, Feb, Philippines, PHL
-148.592, 1925, Mar, Philippines, PHL
-147.048, 1925, Apr, Philippines, PHL
-211.055, 1925, May, Philippines, PHL
-317.958, 1925, Jun, Philippines, PHL
-357.108, 1925, Jul, Philippines, PHL
-323.286, 1925, Aug, Philippines, PHL
-246.593, 1925, Sep, Philippines, PHL
-267.764, 1925, Oct, Philippines, PHL
-146.988, 1925, Nov, Philippines, PHL
-137.443, 1925, Dec, Philippines, PHL
-153.882, 1926, Jan, Philippines, PHL
-83.5782, 1926, Feb, Philippines, PHL
-55.349, 1926, Mar, Philippines, PHL
-32.4398, 1926, Apr, Philippines, PHL
-162.62, 1926, May, Philippines, PHL
-330.563, 1926, Jun, Philippines, PHL
-334.513, 1926, Jul, Philippines, PHL
-353.172, 1926, Aug, Philippines, PHL
-324.368, 1926, Sep, Philippines, PHL
-320.787, 1926, Oct, Philippines, PHL
-252.986, 1926, Nov, Philippines, PHL
-197.108, 1926, Dec, Philippines, PHL
-160.878, 1927, Jan, Philippines, PHL
-79.9676, 1927, Feb, Philippines, PHL
-94.634, 1927, Mar, Philippines, PHL
-139.954, 1927, Apr, Philippines, PHL
-224.522, 1927, May, Philippines, PHL
-252.584, 1927, Jun, Philippines, PHL
-288.773, 1927, Jul, Philippines, PHL
-316.595, 1927, Aug, Philippines, PHL
-148.604, 1927, Sep, Philippines, PHL
-260.353, 1927, Oct, Philippines, PHL
-196.216, 1927, Nov, Philippines, PHL
-170.102, 1927, Dec, Philippines, PHL
-151.926, 1928, Jan, Philippines, PHL
-170.55, 1928, Feb, Philippines, PHL
-103.376, 1928, Mar, Philippines, PHL
-166.117, 1928, Apr, Philippines, PHL
-174.569, 1928, May, Philippines, PHL
-237.844, 1928, Jun, Philippines, PHL
-324.936, 1928, Jul, Philippines, PHL
-213.454, 1928, Aug, Philippines, PHL
-239.585, 1928, Sep, Philippines, PHL
-234.469, 1928, Oct, Philippines, PHL
-281.911, 1928, Nov, Philippines, PHL
-193.112, 1928, Dec, Philippines, PHL
-235.939, 1929, Jan, Philippines, PHL
-70.2262, 1929, Feb, Philippines, PHL
-124.632, 1929, Mar, Philippines, PHL
-108.582, 1929, Apr, Philippines, PHL
-221.246, 1929, May, Philippines, PHL
-218.106, 1929, Jun, Philippines, PHL
-339.757, 1929, Jul, Philippines, PHL
-340.074, 1929, Aug, Philippines, PHL
-241.764, 1929, Sep, Philippines, PHL
-241.589, 1929, Oct, Philippines, PHL
-206.396, 1929, Nov, Philippines, PHL
-159.656, 1929, Dec, Philippines, PHL
-129.324, 1930, Jan, Philippines, PHL
-60.1822, 1930, Feb, Philippines, PHL
-46.4435, 1930, Mar, Philippines, PHL
-98.7157, 1930, Apr, Philippines, PHL
-295.039, 1930, May, Philippines, PHL
-349.186, 1930, Jun, Philippines, PHL
-218.721, 1930, Jul, Philippines, PHL
-238.651, 1930, Aug, Philippines, PHL
-217.229, 1930, Sep, Philippines, PHL
-166.813, 1930, Oct, Philippines, PHL
-175.111, 1930, Nov, Philippines, PHL
-216.767, 1930, Dec, Philippines, PHL
-131.753, 1931, Jan, Philippines, PHL
-25.9254, 1931, Feb, Philippines, PHL
-39.7019, 1931, Mar, Philippines, PHL
-69.429, 1931, Apr, Philippines, PHL
-157.17, 1931, May, Philippines, PHL
-222.146, 1931, Jun, Philippines, PHL
-358.873, 1931, Jul, Philippines, PHL
-297.744, 1931, Aug, Philippines, PHL
-306.566, 1931, Sep, Philippines, PHL
-327.981, 1931, Oct, Philippines, PHL
-297.597, 1931, Nov, Philippines, PHL
-186.664, 1931, Dec, Philippines, PHL
-113.667, 1932, Jan, Philippines, PHL
-84.3524, 1932, Feb, Philippines, PHL
-107.577, 1932, Mar, Philippines, PHL
-53.7584, 1932, Apr, Philippines, PHL
-234.195, 1932, May, Philippines, PHL
-323.463, 1932, Jun, Philippines, PHL
-375.13, 1932, Jul, Philippines, PHL
-232.975, 1932, Aug, Philippines, PHL
-303.689, 1932, Sep, Philippines, PHL
-284.414, 1932, Oct, Philippines, PHL
-310.917, 1932, Nov, Philippines, PHL
-178.551, 1932, Dec, Philippines, PHL
-173.65, 1933, Jan, Philippines, PHL
-116.081, 1933, Feb, Philippines, PHL
-55.9788, 1933, Mar, Philippines, PHL
-59.0849, 1933, Apr, Philippines, PHL
-160.699, 1933, May, Philippines, PHL
-274.538, 1933, Jun, Philippines, PHL
-269.314, 1933, Jul, Philippines, PHL
-205.578, 1933, Aug, Philippines, PHL
-307.567, 1933, Sep, Philippines, PHL
-365.834, 1933, Oct, Philippines, PHL
-268.779, 1933, Nov, Philippines, PHL
-214.213, 1933, Dec, Philippines, PHL
-206.925, 1934, Jan, Philippines, PHL
-231.827, 1934, Feb, Philippines, PHL
-168.731, 1934, Mar, Philippines, PHL
-170.35, 1934, Apr, Philippines, PHL
-259.498, 1934, May, Philippines, PHL
-239.827, 1934, Jun, Philippines, PHL
-289.146, 1934, Jul, Philippines, PHL
-460.558, 1934, Aug, Philippines, PHL
-340.18, 1934, Sep, Philippines, PHL
-303.132, 1934, Oct, Philippines, PHL
-393.362, 1934, Nov, Philippines, PHL
-261.055, 1934, Dec, Philippines, PHL
-46.347, 1935, Jan, Philippines, PHL
-108.514, 1935, Feb, Philippines, PHL
-89.9153, 1935, Mar, Philippines, PHL
-116.148, 1935, Apr, Philippines, PHL
-264.842, 1935, May, Philippines, PHL
-210.922, 1935, Jun, Philippines, PHL
-392.676, 1935, Jul, Philippines, PHL
-248.155, 1935, Aug, Philippines, PHL
-313.631, 1935, Sep, Philippines, PHL
-251.063, 1935, Oct, Philippines, PHL
-250.326, 1935, Nov, Philippines, PHL
-161.82, 1935, Dec, Philippines, PHL
-157.606, 1936, Jan, Philippines, PHL
-41.0892, 1936, Feb, Philippines, PHL
-88.427, 1936, Mar, Philippines, PHL
-100.637, 1936, Apr, Philippines, PHL
-195.783, 1936, May, Philippines, PHL
-210.402, 1936, Jun, Philippines, PHL
-397.024, 1936, Jul, Philippines, PHL
-383.904, 1936, Aug, Philippines, PHL
-240.593, 1936, Sep, Philippines, PHL
-320.05, 1936, Oct, Philippines, PHL
-207.427, 1936, Nov, Philippines, PHL
-253.229, 1936, Dec, Philippines, PHL
-147.962, 1937, Jan, Philippines, PHL
-87.2962, 1937, Feb, Philippines, PHL
-120.97, 1937, Mar, Philippines, PHL
-84.0075, 1937, Apr, Philippines, PHL
-199.95, 1937, May, Philippines, PHL
-287.368, 1937, Jun, Philippines, PHL
-339.974, 1937, Jul, Philippines, PHL
-383.798, 1937, Aug, Philippines, PHL
-272.008, 1937, Sep, Philippines, PHL
-267.326, 1937, Oct, Philippines, PHL
-266.588, 1937, Nov, Philippines, PHL
-184.952, 1937, Dec, Philippines, PHL
-114.788, 1938, Jan, Philippines, PHL
-100.078, 1938, Feb, Philippines, PHL
-123.516, 1938, Mar, Philippines, PHL
-186.516, 1938, Apr, Philippines, PHL
-199.069, 1938, May, Philippines, PHL
-285.142, 1938, Jun, Philippines, PHL
-223.62, 1938, Jul, Philippines, PHL
-176.761, 1938, Aug, Philippines, PHL
-245.301, 1938, Sep, Philippines, PHL
-334.596, 1938, Oct, Philippines, PHL
-299.265, 1938, Nov, Philippines, PHL
-252.414, 1938, Dec, Philippines, PHL
-210.351, 1939, Jan, Philippines, PHL
-141.958, 1939, Feb, Philippines, PHL
-105.639, 1939, Mar, Philippines, PHL
-122.806, 1939, Apr, Philippines, PHL
-295.017, 1939, May, Philippines, PHL
-306.861, 1939, Jun, Philippines, PHL
-267.097, 1939, Jul, Philippines, PHL
-261.714, 1939, Aug, Philippines, PHL
-204.04, 1939, Sep, Philippines, PHL
-253.289, 1939, Oct, Philippines, PHL
-272.486, 1939, Nov, Philippines, PHL
-331.983, 1939, Dec, Philippines, PHL
-93.7519, 1940, Jan, Philippines, PHL
-96.6981, 1940, Feb, Philippines, PHL
-49.5567, 1940, Mar, Philippines, PHL
-84.8405, 1940, Apr, Philippines, PHL
-135.688, 1940, May, Philippines, PHL
-235.41, 1940, Jun, Philippines, PHL
-347.467, 1940, Jul, Philippines, PHL
-398.276, 1940, Aug, Philippines, PHL
-259.95, 1940, Sep, Philippines, PHL
-208.122, 1940, Oct, Philippines, PHL
-153.089, 1940, Nov, Philippines, PHL
-148.963, 1940, Dec, Philippines, PHL
-130.167, 1941, Jan, Philippines, PHL
-89.4134, 1941, Feb, Philippines, PHL
-80.8199, 1941, Mar, Philippines, PHL
-90.5204, 1941, Apr, Philippines, PHL
-190.533, 1941, May, Philippines, PHL
-255.733, 1941, Jun, Philippines, PHL
-295.802, 1941, Jul, Philippines, PHL
-296.642, 1941, Aug, Philippines, PHL
-273.107, 1941, Sep, Philippines, PHL
-269.677, 1941, Oct, Philippines, PHL
-237.088, 1941, Nov, Philippines, PHL
-171.589, 1941, Dec, Philippines, PHL
-129.689, 1942, Jan, Philippines, PHL
-86.8369, 1942, Feb, Philippines, PHL
-78.9782, 1942, Mar, Philippines, PHL
-88.2772, 1942, Apr, Philippines, PHL
-177.491, 1942, May, Philippines, PHL
-256.601, 1942, Jun, Philippines, PHL
-308.156, 1942, Jul, Philippines, PHL
-299.195, 1942, Aug, Philippines, PHL
-278.558, 1942, Sep, Philippines, PHL
-270.6, 1942, Oct, Philippines, PHL
-235.861, 1942, Nov, Philippines, PHL
-170.07, 1942, Dec, Philippines, PHL
-130.363, 1943, Jan, Philippines, PHL
-87.6872, 1943, Feb, Philippines, PHL
-80.5073, 1943, Mar, Philippines, PHL
-87.7778, 1943, Apr, Philippines, PHL
-176.602, 1943, May, Philippines, PHL
-261.489, 1943, Jun, Philippines, PHL
-311.801, 1943, Jul, Philippines, PHL
-297.472, 1943, Aug, Philippines, PHL
-273.026, 1943, Sep, Philippines, PHL
-268.538, 1943, Oct, Philippines, PHL
-239.926, 1943, Nov, Philippines, PHL
-167.25, 1943, Dec, Philippines, PHL
-129.342, 1944, Jan, Philippines, PHL
-87.1381, 1944, Feb, Philippines, PHL
-79.7128, 1944, Mar, Philippines, PHL
-88.2976, 1944, Apr, Philippines, PHL
-180.04, 1944, May, Philippines, PHL
-264.245, 1944, Jun, Philippines, PHL
-299.455, 1944, Jul, Philippines, PHL
-307.697, 1944, Aug, Philippines, PHL
-271.362, 1944, Sep, Philippines, PHL
-269.887, 1944, Oct, Philippines, PHL
-241.466, 1944, Nov, Philippines, PHL
-169.864, 1944, Dec, Philippines, PHL
-128.954, 1945, Jan, Philippines, PHL
-88.7542, 1945, Feb, Philippines, PHL
-79.7644, 1945, Mar, Philippines, PHL
-87.6309, 1945, Apr, Philippines, PHL
-178.781, 1945, May, Philippines, PHL
-257.552, 1945, Jun, Philippines, PHL
-304.146, 1945, Jul, Philippines, PHL
-308.079, 1945, Aug, Philippines, PHL
-275.954, 1945, Sep, Philippines, PHL
-289.719, 1945, Oct, Philippines, PHL
-235.059, 1945, Nov, Philippines, PHL
-164.49, 1945, Dec, Philippines, PHL
-84.5516, 1946, Jan, Philippines, PHL
-59.9886, 1946, Feb, Philippines, PHL
-103.452, 1946, Mar, Philippines, PHL
-87.5282, 1946, Apr, Philippines, PHL
-168.596, 1946, May, Philippines, PHL
-276.675, 1946, Jun, Philippines, PHL
-357.824, 1946, Jul, Philippines, PHL
-244.31, 1946, Aug, Philippines, PHL
-323.861, 1946, Sep, Philippines, PHL
-286.936, 1946, Oct, Philippines, PHL
-140.443, 1946, Nov, Philippines, PHL
-204.109, 1946, Dec, Philippines, PHL
-75.671, 1947, Jan, Philippines, PHL
-81.9802, 1947, Feb, Philippines, PHL
-155.792, 1947, Mar, Philippines, PHL
-117.67, 1947, Apr, Philippines, PHL
-221.098, 1947, May, Philippines, PHL
-315.113, 1947, Jun, Philippines, PHL
-263.108, 1947, Jul, Philippines, PHL
-340.655, 1947, Aug, Philippines, PHL
-224.478, 1947, Sep, Philippines, PHL
-355.742, 1947, Oct, Philippines, PHL
-317.236, 1947, Nov, Philippines, PHL
-288.687, 1947, Dec, Philippines, PHL
-88.2407, 1948, Jan, Philippines, PHL
-61.5552, 1948, Feb, Philippines, PHL
-80.7628, 1948, Mar, Philippines, PHL
-83.4608, 1948, Apr, Philippines, PHL
-127.144, 1948, May, Philippines, PHL
-187.079, 1948, Jun, Philippines, PHL
-373.779, 1948, Jul, Philippines, PHL
-311.748, 1948, Aug, Philippines, PHL
-260.862, 1948, Sep, Philippines, PHL
-202.923, 1948, Oct, Philippines, PHL
-283.361, 1948, Nov, Philippines, PHL
-167.977, 1948, Dec, Philippines, PHL
-70.5381, 1949, Jan, Philippines, PHL
-69.2035, 1949, Feb, Philippines, PHL
-84.5289, 1949, Mar, Philippines, PHL
-59.2349, 1949, Apr, Philippines, PHL
-129.618, 1949, May, Philippines, PHL
-205.115, 1949, Jun, Philippines, PHL
-251.171, 1949, Jul, Philippines, PHL
-271.79, 1949, Aug, Philippines, PHL
-281.912, 1949, Sep, Philippines, PHL
-333.178, 1949, Oct, Philippines, PHL
-273.784, 1949, Nov, Philippines, PHL
-303.507, 1949, Dec, Philippines, PHL
-162.088, 1950, Jan, Philippines, PHL
-89.2357, 1950, Feb, Philippines, PHL
-174.64, 1950, Mar, Philippines, PHL
-104.387, 1950, Apr, Philippines, PHL
-184.845, 1950, May, Philippines, PHL
-315.926, 1950, Jun, Philippines, PHL
-218.095, 1950, Jul, Philippines, PHL
-265.608, 1950, Aug, Philippines, PHL
-311.827, 1950, Sep, Philippines, PHL
-268.875, 1950, Oct, Philippines, PHL
-183.872, 1950, Nov, Philippines, PHL
-163.002, 1950, Dec, Philippines, PHL
-96.8936, 1951, Jan, Philippines, PHL
-81.2971, 1951, Feb, Philippines, PHL
-55.7225, 1951, Mar, Philippines, PHL
-91.2684, 1951, Apr, Philippines, PHL
-209.232, 1951, May, Philippines, PHL
-213.714, 1951, Jun, Philippines, PHL
-286.456, 1951, Jul, Philippines, PHL
-306.479, 1951, Aug, Philippines, PHL
-301.626, 1951, Sep, Philippines, PHL
-176.193, 1951, Oct, Philippines, PHL
-298.34, 1951, Nov, Philippines, PHL
-245.818, 1951, Dec, Philippines, PHL
-88.2618, 1952, Jan, Philippines, PHL
-91.187, 1952, Feb, Philippines, PHL
-74.0408, 1952, Mar, Philippines, PHL
-94.0177, 1952, Apr, Philippines, PHL
-203.252, 1952, May, Philippines, PHL
-287.813, 1952, Jun, Philippines, PHL
-228.3, 1952, Jul, Philippines, PHL
-427.905, 1952, Aug, Philippines, PHL
-248.643, 1952, Sep, Philippines, PHL
-360.226, 1952, Oct, Philippines, PHL
-170.96, 1952, Nov, Philippines, PHL
-336.201, 1952, Dec, Philippines, PHL
-131.466, 1953, Jan, Philippines, PHL
-115.098, 1953, Feb, Philippines, PHL
-69.7, 1953, Mar, Philippines, PHL
-72.7621, 1953, Apr, Philippines, PHL
-164.46, 1953, May, Philippines, PHL
-317.847, 1953, Jun, Philippines, PHL
-269.89, 1953, Jul, Philippines, PHL
-335.102, 1953, Aug, Philippines, PHL
-205.476, 1953, Sep, Philippines, PHL
-229.136, 1953, Oct, Philippines, PHL
-340.113, 1953, Nov, Philippines, PHL
-258.133, 1953, Dec, Philippines, PHL
-70.0477, 1954, Jan, Philippines, PHL
-82.6039, 1954, Feb, Philippines, PHL
-178.668, 1954, Mar, Philippines, PHL
-66.3831, 1954, Apr, Philippines, PHL
-191.472, 1954, May, Philippines, PHL
-217.836, 1954, Jun, Philippines, PHL
-248.484, 1954, Jul, Philippines, PHL
-311.481, 1954, Aug, Philippines, PHL
-255.658, 1954, Sep, Philippines, PHL
-225.173, 1954, Oct, Philippines, PHL
-260.115, 1954, Nov, Philippines, PHL
-237.345, 1954, Dec, Philippines, PHL
-273.342, 1955, Jan, Philippines, PHL
-57.6678, 1955, Feb, Philippines, PHL
-73.5285, 1955, Mar, Philippines, PHL
-85.9282, 1955, Apr, Philippines, PHL
-158.387, 1955, May, Philippines, PHL
-278.103, 1955, Jun, Philippines, PHL
-214.781, 1955, Jul, Philippines, PHL
-230.637, 1955, Aug, Philippines, PHL
-231.403, 1955, Sep, Philippines, PHL
-273.267, 1955, Oct, Philippines, PHL
-305.144, 1955, Nov, Philippines, PHL
-138.934, 1955, Dec, Philippines, PHL
-148.894, 1956, Jan, Philippines, PHL
-126.265, 1956, Feb, Philippines, PHL
-101.674, 1956, Mar, Philippines, PHL
-228.116, 1956, Apr, Philippines, PHL
-271.324, 1956, May, Philippines, PHL
-203.1, 1956, Jun, Philippines, PHL
-235.349, 1956, Jul, Philippines, PHL
-465.227, 1956, Aug, Philippines, PHL
-341.175, 1956, Sep, Philippines, PHL
-241.229, 1956, Oct, Philippines, PHL
-257.574, 1956, Nov, Philippines, PHL
-346.388, 1956, Dec, Philippines, PHL
-155.65, 1957, Jan, Philippines, PHL
-82.8469, 1957, Feb, Philippines, PHL
-101.378, 1957, Mar, Philippines, PHL
-105.696, 1957, Apr, Philippines, PHL
-89.2888, 1957, May, Philippines, PHL
-265.113, 1957, Jun, Philippines, PHL
-241.92, 1957, Jul, Philippines, PHL
-301.256, 1957, Aug, Philippines, PHL
-262.356, 1957, Sep, Philippines, PHL
-201.987, 1957, Oct, Philippines, PHL
-185.583, 1957, Nov, Philippines, PHL
-77.3636, 1957, Dec, Philippines, PHL
-102.644, 1958, Jan, Philippines, PHL
-80.785, 1958, Feb, Philippines, PHL
-55.7261, 1958, Mar, Philippines, PHL
-64.8455, 1958, Apr, Philippines, PHL
-129.04, 1958, May, Philippines, PHL
-228.765, 1958, Jun, Philippines, PHL
-259.506, 1958, Jul, Philippines, PHL
-315.386, 1958, Aug, Philippines, PHL
-241.362, 1958, Sep, Philippines, PHL
-290.172, 1958, Oct, Philippines, PHL
-234.597, 1958, Nov, Philippines, PHL
-97.4262, 1958, Dec, Philippines, PHL
-109.08, 1959, Jan, Philippines, PHL
-61.8739, 1959, Feb, Philippines, PHL
-136.768, 1959, Mar, Philippines, PHL
-53.0357, 1959, Apr, Philippines, PHL
-216.766, 1959, May, Philippines, PHL
-161.684, 1959, Jun, Philippines, PHL
-269.871, 1959, Jul, Philippines, PHL
-305.736, 1959, Aug, Philippines, PHL
-205.622, 1959, Sep, Philippines, PHL
-211.397, 1959, Oct, Philippines, PHL
-294.319, 1959, Nov, Philippines, PHL
-195.577, 1959, Dec, Philippines, PHL
-120.123, 1960, Jan, Philippines, PHL
-130.355, 1960, Feb, Philippines, PHL
-82.0567, 1960, Mar, Philippines, PHL
-139.662, 1960, Apr, Philippines, PHL
-209.617, 1960, May, Philippines, PHL
-264.813, 1960, Jun, Philippines, PHL
-283.627, 1960, Jul, Philippines, PHL
-294.807, 1960, Aug, Philippines, PHL
-294.417, 1960, Sep, Philippines, PHL
-333.241, 1960, Oct, Philippines, PHL
-195.747, 1960, Nov, Philippines, PHL
-121.27, 1960, Dec, Philippines, PHL
-114.764, 1961, Jan, Philippines, PHL
-82.1165, 1961, Feb, Philippines, PHL
-91.9307, 1961, Mar, Philippines, PHL
-103.102, 1961, Apr, Philippines, PHL
-228.235, 1961, May, Philippines, PHL
-343.535, 1961, Jun, Philippines, PHL
-272.138, 1961, Jul, Philippines, PHL
-359.989, 1961, Aug, Philippines, PHL
-211.833, 1961, Sep, Philippines, PHL
-256.313, 1961, Oct, Philippines, PHL
-199.031, 1961, Nov, Philippines, PHL
-134.792, 1961, Dec, Philippines, PHL
-136.502, 1962, Jan, Philippines, PHL
-134.864, 1962, Feb, Philippines, PHL
-105.92, 1962, Mar, Philippines, PHL
-83.2686, 1962, Apr, Philippines, PHL
-222.594, 1962, May, Philippines, PHL
-302.319, 1962, Jun, Philippines, PHL
-375.759, 1962, Jul, Philippines, PHL
-340.423, 1962, Aug, Philippines, PHL
-390.251, 1962, Sep, Philippines, PHL
-155.078, 1962, Oct, Philippines, PHL
-226.935, 1962, Nov, Philippines, PHL
-111.566, 1962, Dec, Philippines, PHL
-130.931, 1963, Jan, Philippines, PHL
-104.203, 1963, Feb, Philippines, PHL
-87.7391, 1963, Mar, Philippines, PHL
-50.3954, 1963, Apr, Philippines, PHL
-187.285, 1963, May, Philippines, PHL
-233.731, 1963, Jun, Philippines, PHL
-237.705, 1963, Jul, Philippines, PHL
-340.11, 1963, Aug, Philippines, PHL
-302.253, 1963, Sep, Philippines, PHL
-157.77, 1963, Oct, Philippines, PHL
-137.384, 1963, Nov, Philippines, PHL
-188.649, 1963, Dec, Philippines, PHL
-83.0313, 1964, Jan, Philippines, PHL
-145.86, 1964, Feb, Philippines, PHL
-63.0533, 1964, Mar, Philippines, PHL
-135.221, 1964, Apr, Philippines, PHL
-218.643, 1964, May, Philippines, PHL
-261.426, 1964, Jun, Philippines, PHL
-260.668, 1964, Jul, Philippines, PHL
-278.918, 1964, Aug, Philippines, PHL
-283.269, 1964, Sep, Philippines, PHL
-318.013, 1964, Oct, Philippines, PHL
-384.39, 1964, Nov, Philippines, PHL
-224.211, 1964, Dec, Philippines, PHL
-185.24, 1965, Jan, Philippines, PHL
-102.129, 1965, Feb, Philippines, PHL
-131.826, 1965, Mar, Philippines, PHL
-122.772, 1965, Apr, Philippines, PHL
-189.117, 1965, May, Philippines, PHL
-280.27, 1965, Jun, Philippines, PHL
-301.161, 1965, Jul, Philippines, PHL
-262.98, 1965, Aug, Philippines, PHL
-248.86, 1965, Sep, Philippines, PHL
-192.171, 1965, Oct, Philippines, PHL
-184.09, 1965, Nov, Philippines, PHL
-161.463, 1965, Dec, Philippines, PHL
-102.042, 1966, Jan, Philippines, PHL
-56.0005, 1966, Feb, Philippines, PHL
-53.9561, 1966, Mar, Philippines, PHL
-64.6573, 1966, Apr, Philippines, PHL
-364.833, 1966, May, Philippines, PHL
-145.074, 1966, Jun, Philippines, PHL
-332.946, 1966, Jul, Philippines, PHL
-283.151, 1966, Aug, Philippines, PHL
-286.438, 1966, Sep, Philippines, PHL
-243.093, 1966, Oct, Philippines, PHL
-330.123, 1966, Nov, Philippines, PHL
-236.652, 1966, Dec, Philippines, PHL
-215.927, 1967, Jan, Philippines, PHL
-107.351, 1967, Feb, Philippines, PHL
-81.5463, 1967, Mar, Philippines, PHL
-87.815, 1967, Apr, Philippines, PHL
-127.887, 1967, May, Philippines, PHL
-272.294, 1967, Jun, Philippines, PHL
-271.417, 1967, Jul, Philippines, PHL
-346.479, 1967, Aug, Philippines, PHL
-207.669, 1967, Sep, Philippines, PHL
-287.196, 1967, Oct, Philippines, PHL
-217.822, 1967, Nov, Philippines, PHL
-82.0877, 1967, Dec, Philippines, PHL
-117.426, 1968, Jan, Philippines, PHL
-62.6073, 1968, Feb, Philippines, PHL
-49.3053, 1968, Mar, Philippines, PHL
-49.6016, 1968, Apr, Philippines, PHL
-100.994, 1968, May, Philippines, PHL
-179.002, 1968, Jun, Philippines, PHL
-342.434, 1968, Jul, Philippines, PHL
-429.564, 1968, Aug, Philippines, PHL
-276.394, 1968, Sep, Philippines, PHL
-162.832, 1968, Oct, Philippines, PHL
-131.777, 1968, Nov, Philippines, PHL
-115.844, 1968, Dec, Philippines, PHL
-61.3583, 1969, Jan, Philippines, PHL
-24.7725, 1969, Feb, Philippines, PHL
-37.2969, 1969, Mar, Philippines, PHL
-62.5047, 1969, Apr, Philippines, PHL
-126.692, 1969, May, Philippines, PHL
-261.683, 1969, Jun, Philippines, PHL
-312.425, 1969, Jul, Philippines, PHL
-263.839, 1969, Aug, Philippines, PHL
-269.932, 1969, Sep, Philippines, PHL
-189.247, 1969, Oct, Philippines, PHL
-167.373, 1969, Nov, Philippines, PHL
-197.73, 1969, Dec, Philippines, PHL
-111.005, 1970, Jan, Philippines, PHL
-100.178, 1970, Feb, Philippines, PHL
-96.9374, 1970, Mar, Philippines, PHL
-59.2809, 1970, Apr, Philippines, PHL
-131.602, 1970, May, Philippines, PHL
-290.991, 1970, Jun, Philippines, PHL
-246.711, 1970, Jul, Philippines, PHL
-302.387, 1970, Aug, Philippines, PHL
-285.926, 1970, Sep, Philippines, PHL
-365.19, 1970, Oct, Philippines, PHL
-290.516, 1970, Nov, Philippines, PHL
-218.084, 1970, Dec, Philippines, PHL
-135.384, 1971, Jan, Philippines, PHL
-144.229, 1971, Feb, Philippines, PHL
-130.311, 1971, Mar, Philippines, PHL
-90.7782, 1971, Apr, Philippines, PHL
-238.084, 1971, May, Philippines, PHL
-348.575, 1971, Jun, Philippines, PHL
-322.406, 1971, Jul, Philippines, PHL
-241.684, 1971, Aug, Philippines, PHL
-217.395, 1971, Sep, Philippines, PHL
-442.431, 1971, Oct, Philippines, PHL
-332.338, 1971, Nov, Philippines, PHL
-248.769, 1971, Dec, Philippines, PHL
-226.887, 1972, Jan, Philippines, PHL
-74.0335, 1972, Feb, Philippines, PHL
-150.356, 1972, Mar, Philippines, PHL
-75.3498, 1972, Apr, Philippines, PHL
-173.618, 1972, May, Philippines, PHL
-376.408, 1972, Jun, Philippines, PHL
-382.58, 1972, Jul, Philippines, PHL
-336.033, 1972, Aug, Philippines, PHL
-234.258, 1972, Sep, Philippines, PHL
-118.323, 1972, Oct, Philippines, PHL
-197.67, 1972, Nov, Philippines, PHL
-144.708, 1972, Dec, Philippines, PHL
-31.9339, 1973, Jan, Philippines, PHL
-40.5936, 1973, Feb, Philippines, PHL
-35.3519, 1973, Mar, Philippines, PHL
-55.9089, 1973, Apr, Philippines, PHL
-105.826, 1973, May, Philippines, PHL
-175.37, 1973, Jun, Philippines, PHL
-286.687, 1973, Jul, Philippines, PHL
-320.164, 1973, Aug, Philippines, PHL
-294.2, 1973, Sep, Philippines, PHL
-389.236, 1973, Oct, Philippines, PHL
-414.368, 1973, Nov, Philippines, PHL
-220.393, 1973, Dec, Philippines, PHL
-102.643, 1974, Jan, Philippines, PHL
-115.492, 1974, Feb, Philippines, PHL
-69.1067, 1974, Mar, Philippines, PHL
-114.663, 1974, Apr, Philippines, PHL
-167.469, 1974, May, Philippines, PHL
-260.711, 1974, Jun, Philippines, PHL
-315.252, 1974, Jul, Philippines, PHL
-248.86, 1974, Aug, Philippines, PHL
-147.965, 1974, Sep, Philippines, PHL
-424.943, 1974, Oct, Philippines, PHL
-308.34, 1974, Nov, Philippines, PHL
-269.8, 1974, Dec, Philippines, PHL
-182.91, 1975, Jan, Philippines, PHL
-76.3101, 1975, Feb, Philippines, PHL
-80.3729, 1975, Mar, Philippines, PHL
-168.572, 1975, Apr, Philippines, PHL
-144.469, 1975, May, Philippines, PHL
-252.838, 1975, Jun, Philippines, PHL
-220.525, 1975, Jul, Philippines, PHL
-270.073, 1975, Aug, Philippines, PHL
-236.832, 1975, Sep, Philippines, PHL
-280.621, 1975, Oct, Philippines, PHL
-169.493, 1975, Nov, Philippines, PHL
-293.775, 1975, Dec, Philippines, PHL
-168.8, 1976, Jan, Philippines, PHL
-74.7575, 1976, Feb, Philippines, PHL
-80.2674, 1976, Mar, Philippines, PHL
-51.5648, 1976, Apr, Philippines, PHL
-293.996, 1976, May, Philippines, PHL
-261.354, 1976, Jun, Philippines, PHL
-166.106, 1976, Jul, Philippines, PHL
-318.819, 1976, Aug, Philippines, PHL
-235.991, 1976, Sep, Philippines, PHL
-199.011, 1976, Oct, Philippines, PHL
-231.577, 1976, Nov, Philippines, PHL
-171.504, 1976, Dec, Philippines, PHL
-149.164, 1977, Jan, Philippines, PHL
-154.874, 1977, Feb, Philippines, PHL
-64.9845, 1977, Mar, Philippines, PHL
-35.4916, 1977, Apr, Philippines, PHL
-118.581, 1977, May, Philippines, PHL
-197.527, 1977, Jun, Philippines, PHL
-371.302, 1977, Jul, Philippines, PHL
-390.51, 1977, Aug, Philippines, PHL
-340.815, 1977, Sep, Philippines, PHL
-130.167, 1977, Oct, Philippines, PHL
-231.271, 1977, Nov, Philippines, PHL
-56.6558, 1977, Dec, Philippines, PHL
-79.6474, 1978, Jan, Philippines, PHL
-84.9328, 1978, Feb, Philippines, PHL
-72.5592, 1978, Mar, Philippines, PHL
-120.601, 1978, Apr, Philippines, PHL
-173.457, 1978, May, Philippines, PHL
-192.955, 1978, Jun, Philippines, PHL
-266.796, 1978, Jul, Philippines, PHL
-315.858, 1978, Aug, Philippines, PHL
-306.238, 1978, Sep, Philippines, PHL
-288.359, 1978, Oct, Philippines, PHL
-159.062, 1978, Nov, Philippines, PHL
-192.345, 1978, Dec, Philippines, PHL
-75.2544, 1979, Jan, Philippines, PHL
-47.9504, 1979, Feb, Philippines, PHL
-43.4667, 1979, Mar, Philippines, PHL
-119.821, 1979, Apr, Philippines, PHL
-220.309, 1979, May, Philippines, PHL
-262.268, 1979, Jun, Philippines, PHL
-303.241, 1979, Jul, Philippines, PHL
-245.604, 1979, Aug, Philippines, PHL
-214.337, 1979, Sep, Philippines, PHL
-250.622, 1979, Oct, Philippines, PHL
-162.334, 1979, Nov, Philippines, PHL
-146.3, 1979, Dec, Philippines, PHL
-148.163, 1980, Jan, Philippines, PHL
-86.3798, 1980, Feb, Philippines, PHL
-103.251, 1980, Mar, Philippines, PHL
-67.5258, 1980, Apr, Philippines, PHL
-131.5, 1980, May, Philippines, PHL
-327.387, 1980, Jun, Philippines, PHL
-296.257, 1980, Jul, Philippines, PHL
-255.723, 1980, Aug, Philippines, PHL
-223.6, 1980, Sep, Philippines, PHL
-320.696, 1980, Oct, Philippines, PHL
-309.569, 1980, Nov, Philippines, PHL
-181.893, 1980, Dec, Philippines, PHL
-190.115, 1981, Jan, Philippines, PHL
-64.4608, 1981, Feb, Philippines, PHL
-36.0505, 1981, Mar, Philippines, PHL
-56.3232, 1981, Apr, Philippines, PHL
-147.219, 1981, May, Philippines, PHL
-271.059, 1981, Jun, Philippines, PHL
-321.091, 1981, Jul, Philippines, PHL
-173.579, 1981, Aug, Philippines, PHL
-262.071, 1981, Sep, Philippines, PHL
-254.722, 1981, Oct, Philippines, PHL
-294.804, 1981, Nov, Philippines, PHL
-145.395, 1981, Dec, Philippines, PHL
-109.467, 1982, Jan, Philippines, PHL
-105.057, 1982, Feb, Philippines, PHL
-113.567, 1982, Mar, Philippines, PHL
-86.9578, 1982, Apr, Philippines, PHL
-143.639, 1982, May, Philippines, PHL
-219.39, 1982, Jun, Philippines, PHL
-273.057, 1982, Jul, Philippines, PHL
-327.064, 1982, Aug, Philippines, PHL
-208.669, 1982, Sep, Philippines, PHL
-171.882, 1982, Oct, Philippines, PHL
-151.511, 1982, Nov, Philippines, PHL
-158.289, 1982, Dec, Philippines, PHL
-87.2612, 1983, Jan, Philippines, PHL
-14.3558, 1983, Feb, Philippines, PHL
-33.7426, 1983, Mar, Philippines, PHL
-15.5767, 1983, Apr, Philippines, PHL
-61.9844, 1983, May, Philippines, PHL
-157.113, 1983, Jun, Philippines, PHL
-342.444, 1983, Jul, Philippines, PHL
-320.17, 1983, Aug, Philippines, PHL
-316.663, 1983, Sep, Philippines, PHL
-308.313, 1983, Oct, Philippines, PHL
-193.19, 1983, Nov, Philippines, PHL
-172.737, 1983, Dec, Philippines, PHL
-153.944, 1984, Jan, Philippines, PHL
-114.904, 1984, Feb, Philippines, PHL
-111.542, 1984, Mar, Philippines, PHL
-137.882, 1984, Apr, Philippines, PHL
-185.86, 1984, May, Philippines, PHL
-326.076, 1984, Jun, Philippines, PHL
-264.034, 1984, Jul, Philippines, PHL
-282.488, 1984, Aug, Philippines, PHL
-348.669, 1984, Sep, Philippines, PHL
-304.616, 1984, Oct, Philippines, PHL
-186.397, 1984, Nov, Philippines, PHL
-146.041, 1984, Dec, Philippines, PHL
-131.805, 1985, Jan, Philippines, PHL
-77.1957, 1985, Feb, Philippines, PHL
-76.314, 1985, Mar, Philippines, PHL
-179.579, 1985, Apr, Philippines, PHL
-218.774, 1985, May, Philippines, PHL
-293.728, 1985, Jun, Philippines, PHL
-364.984, 1985, Jul, Philippines, PHL
-166.275, 1985, Aug, Philippines, PHL
-334.803, 1985, Sep, Philippines, PHL
-374.224, 1985, Oct, Philippines, PHL
-204.16, 1985, Nov, Philippines, PHL
-147.633, 1985, Dec, Philippines, PHL
-202.577, 1986, Jan, Philippines, PHL
-76.9338, 1986, Feb, Philippines, PHL
-78.7692, 1986, Mar, Philippines, PHL
-86.4733, 1986, Apr, Philippines, PHL
-153.135, 1986, May, Philippines, PHL
-203.224, 1986, Jun, Philippines, PHL
-462.652, 1986, Jul, Philippines, PHL
-356.205, 1986, Aug, Philippines, PHL
-368.085, 1986, Sep, Philippines, PHL
-351.087, 1986, Oct, Philippines, PHL
-278.665, 1986, Nov, Philippines, PHL
-114.506, 1986, Dec, Philippines, PHL
-65.7248, 1987, Jan, Philippines, PHL
-67.9661, 1987, Feb, Philippines, PHL
-33.572, 1987, Mar, Philippines, PHL
-23.7742, 1987, Apr, Philippines, PHL
-80.9043, 1987, May, Philippines, PHL
-191.862, 1987, Jun, Philippines, PHL
-226.066, 1987, Jul, Philippines, PHL
-309.998, 1987, Aug, Philippines, PHL
-205.248, 1987, Sep, Philippines, PHL
-242.614, 1987, Oct, Philippines, PHL
-241.411, 1987, Nov, Philippines, PHL
-203.181, 1987, Dec, Philippines, PHL
-106.406, 1988, Jan, Philippines, PHL
-109.533, 1988, Feb, Philippines, PHL
-63.1487, 1988, Mar, Philippines, PHL
-137.165, 1988, Apr, Philippines, PHL
-170.952, 1988, May, Philippines, PHL
-252.912, 1988, Jun, Philippines, PHL
-257.129, 1988, Jul, Philippines, PHL
-217.756, 1988, Aug, Philippines, PHL
-261.969, 1988, Sep, Philippines, PHL
-443.377, 1988, Oct, Philippines, PHL
-318.555, 1988, Nov, Philippines, PHL
-148.538, 1988, Dec, Philippines, PHL
-184.194, 1989, Jan, Philippines, PHL
-143.517, 1989, Feb, Philippines, PHL
-182.99, 1989, Mar, Philippines, PHL
-105.651, 1989, Apr, Philippines, PHL
-271.153, 1989, May, Philippines, PHL
-292.854, 1989, Jun, Philippines, PHL
-286.771, 1989, Jul, Philippines, PHL
-384.275, 1989, Aug, Philippines, PHL
-250.181, 1989, Sep, Philippines, PHL
-250.747, 1989, Oct, Philippines, PHL
-154.442, 1989, Nov, Philippines, PHL
-78.9538, 1989, Dec, Philippines, PHL
-86.0684, 1990, Jan, Philippines, PHL
-31.1862, 1990, Feb, Philippines, PHL
-41.0529, 1990, Mar, Philippines, PHL
-55.8129, 1990, Apr, Philippines, PHL
-295.485, 1990, May, Philippines, PHL
-316.879, 1990, Jun, Philippines, PHL
-307.199, 1990, Jul, Philippines, PHL
-325.214, 1990, Aug, Philippines, PHL
-304.361, 1990, Sep, Philippines, PHL
-246.126, 1990, Oct, Philippines, PHL
-291.175, 1990, Nov, Philippines, PHL
-119.258, 1990, Dec, Philippines, PHL
-84.3706, 1991, Jan, Philippines, PHL
-83.6896, 1991, Feb, Philippines, PHL
-87.7454, 1991, Mar, Philippines, PHL
-95.9104, 1991, Apr, Philippines, PHL
-120.533, 1991, May, Philippines, PHL
-207.943, 1991, Jun, Philippines, PHL
-320.326, 1991, Jul, Philippines, PHL
-342.481, 1991, Aug, Philippines, PHL
-177.951, 1991, Sep, Philippines, PHL
-227.965, 1991, Oct, Philippines, PHL
-180.768, 1991, Nov, Philippines, PHL
-96.2073, 1991, Dec, Philippines, PHL
-66.4652, 1992, Jan, Philippines, PHL
-24.4988, 1992, Feb, Philippines, PHL
-21.3685, 1992, Mar, Philippines, PHL
-33.9054, 1992, Apr, Philippines, PHL
-109.229, 1992, May, Philippines, PHL
-221.456, 1992, Jun, Philippines, PHL
-350.105, 1992, Jul, Philippines, PHL
-337.328, 1992, Aug, Philippines, PHL
-274.296, 1992, Sep, Philippines, PHL
-254.352, 1992, Oct, Philippines, PHL
-160.388, 1992, Nov, Philippines, PHL
-108.019, 1992, Dec, Philippines, PHL
-72.5875, 1993, Jan, Philippines, PHL
-102.534, 1993, Feb, Philippines, PHL
-67.2379, 1993, Mar, Philippines, PHL
-76.4378, 1993, Apr, Philippines, PHL
-96.3544, 1993, May, Philippines, PHL
-152.298, 1993, Jun, Philippines, PHL
-276.069, 1993, Jul, Philippines, PHL
-301.246, 1993, Aug, Philippines, PHL
-239.919, 1993, Sep, Philippines, PHL
-309.591, 1993, Oct, Philippines, PHL
-279.036, 1993, Nov, Philippines, PHL
-295.486, 1993, Dec, Philippines, PHL
-141.423, 1994, Jan, Philippines, PHL
-77.8492, 1994, Feb, Philippines, PHL
-103.927, 1994, Mar, Philippines, PHL
-142.495, 1994, Apr, Philippines, PHL
-172.473, 1994, May, Philippines, PHL
-353.524, 1994, Jun, Philippines, PHL
-258.177, 1994, Jul, Philippines, PHL
-274.738, 1994, Aug, Philippines, PHL
-278.252, 1994, Sep, Philippines, PHL
-147.658, 1994, Oct, Philippines, PHL
-93.4185, 1994, Nov, Philippines, PHL
-154.586, 1994, Dec, Philippines, PHL
-105.104, 1995, Jan, Philippines, PHL
-69.2191, 1995, Feb, Philippines, PHL
-63.7294, 1995, Mar, Philippines, PHL
-45.2464, 1995, Apr, Philippines, PHL
-148.194, 1995, May, Philippines, PHL
-227.343, 1995, Jun, Philippines, PHL
-314.005, 1995, Jul, Philippines, PHL
-314.794, 1995, Aug, Philippines, PHL
-391.083, 1995, Sep, Philippines, PHL
-302.741, 1995, Oct, Philippines, PHL
-281.521, 1995, Nov, Philippines, PHL
-310.23, 1995, Dec, Philippines, PHL
-196.475, 1996, Jan, Philippines, PHL
-111.259, 1996, Feb, Philippines, PHL
-89.8635, 1996, Mar, Philippines, PHL
-158.981, 1996, Apr, Philippines, PHL
-168.571, 1996, May, Philippines, PHL
-238.886, 1996, Jun, Philippines, PHL
-242.367, 1996, Jul, Philippines, PHL
-224.445, 1996, Aug, Philippines, PHL
-279.928, 1996, Sep, Philippines, PHL
-260.593, 1996, Oct, Philippines, PHL
-327.257, 1996, Nov, Philippines, PHL
-136.418, 1996, Dec, Philippines, PHL
-113.564, 1997, Jan, Philippines, PHL
-130.71, 1997, Feb, Philippines, PHL
-73.8469, 1997, Mar, Philippines, PHL
-63.6382, 1997, Apr, Philippines, PHL
-226.483, 1997, May, Philippines, PHL
-154.454, 1997, Jun, Philippines, PHL
-328.204, 1997, Jul, Philippines, PHL
-236.029, 1997, Aug, Philippines, PHL
-209.911, 1997, Sep, Philippines, PHL
-228.517, 1997, Oct, Philippines, PHL
-104.875, 1997, Nov, Philippines, PHL
-81.588, 1997, Dec, Philippines, PHL
-41.1729, 1998, Jan, Philippines, PHL
-18.9611, 1998, Feb, Philippines, PHL
-28.6533, 1998, Mar, Philippines, PHL
-32.6937, 1998, Apr, Philippines, PHL
-146.097, 1998, May, Philippines, PHL
-180.207, 1998, Jun, Philippines, PHL
-141.347, 1998, Jul, Philippines, PHL
-318.316, 1998, Aug, Philippines, PHL
-223.119, 1998, Sep, Philippines, PHL
-379.164, 1998, Oct, Philippines, PHL
-369.614, 1998, Nov, Philippines, PHL
-268.367, 1998, Dec, Philippines, PHL
-255.689, 1999, Jan, Philippines, PHL
-152.637, 1999, Feb, Philippines, PHL
-243.992, 1999, Mar, Philippines, PHL
-190.031, 1999, Apr, Philippines, PHL
-195.563, 1999, May, Philippines, PHL
-288.134, 1999, Jun, Philippines, PHL
-368.283, 1999, Jul, Philippines, PHL
-386.335, 1999, Aug, Philippines, PHL
-290.332, 1999, Sep, Philippines, PHL
-328.156, 1999, Oct, Philippines, PHL
-268.211, 1999, Nov, Philippines, PHL
-290.892, 1999, Dec, Philippines, PHL
-163.777, 2000, Jan, Philippines, PHL
-192.274, 2000, Feb, Philippines, PHL
-190.03, 2000, Mar, Philippines, PHL
-148.543, 2000, Apr, Philippines, PHL
-253.578, 2000, May, Philippines, PHL
-275.665, 2000, Jun, Philippines, PHL
-272.336, 2000, Jul, Philippines, PHL
-247.421, 2000, Aug, Philippines, PHL
-242.125, 2000, Sep, Philippines, PHL
-450.972, 2000, Oct, Philippines, PHL
-294.536, 2000, Nov, Philippines, PHL
-282.558, 2000, Dec, Philippines, PHL
-172.509, 2001, Jan, Philippines, PHL
-166.517, 2001, Feb, Philippines, PHL
-178.533, 2001, Mar, Philippines, PHL
-117.856, 2001, Apr, Philippines, PHL
-178.173, 2001, May, Philippines, PHL
-314.094, 2001, Jun, Philippines, PHL
-365.725, 2001, Jul, Philippines, PHL
-404.651, 2001, Aug, Philippines, PHL
-208.917, 2001, Sep, Philippines, PHL
-287.498, 2001, Oct, Philippines, PHL
-292.858, 2001, Nov, Philippines, PHL
-276.816, 2001, Dec, Philippines, PHL
-108.515, 2002, Jan, Philippines, PHL
-84.1358, 2002, Feb, Philippines, PHL
-96.991, 2002, Mar, Philippines, PHL
-71.1836, 2002, Apr, Philippines, PHL
-178.752, 2002, May, Philippines, PHL
-336.233, 2002, Jun, Philippines, PHL
-345.846, 2002, Jul, Philippines, PHL
-328.737, 2002, Aug, Philippines, PHL
-268.501, 2002, Sep, Philippines, PHL
-177.445, 2002, Oct, Philippines, PHL
-162.84, 2002, Nov, Philippines, PHL
-192.801, 2002, Dec, Philippines, PHL
-104.876, 2003, Jan, Philippines, PHL
-72.6529, 2003, Feb, Philippines, PHL
-43.4931, 2003, Mar, Philippines, PHL
-40.0946, 2003, Apr, Philippines, PHL
-312.271, 2003, May, Philippines, PHL
-316.503, 2003, Jun, Philippines, PHL
-487.625, 2003, Jul, Philippines, PHL
-311.567, 2003, Aug, Philippines, PHL
-288.083, 2003, Sep, Philippines, PHL
-295.449, 2003, Oct, Philippines, PHL
-236.944, 2003, Nov, Philippines, PHL
-169.048, 2003, Dec, Philippines, PHL
-127.921, 2004, Jan, Philippines, PHL
-81.2742, 2004, Feb, Philippines, PHL
-79.1582, 2004, Mar, Philippines, PHL
-82.1202, 2004, Apr, Philippines, PHL
-277.038, 2004, May, Philippines, PHL
-319.795, 2004, Jun, Philippines, PHL
-299.769, 2004, Jul, Philippines, PHL
-274.212, 2004, Aug, Philippines, PHL
-169.574, 2004, Sep, Philippines, PHL
-232.804, 2004, Oct, Philippines, PHL
-183.497, 2004, Nov, Philippines, PHL
-184.412, 2004, Dec, Philippines, PHL
-128.157, 2005, Jan, Philippines, PHL
-17.9266, 2005, Feb, Philippines, PHL
-90.2497, 2005, Mar, Philippines, PHL
-55.4231, 2005, Apr, Philippines, PHL
-177.654, 2005, May, Philippines, PHL
-268.558, 2005, Jun, Philippines, PHL
-229.916, 2005, Jul, Philippines, PHL
-301.412, 2005, Aug, Philippines, PHL
-397.691, 2005, Sep, Philippines, PHL
-313.273, 2005, Oct, Philippines, PHL
-158.728, 2005, Nov, Philippines, PHL
-297.523, 2005, Dec, Philippines, PHL
-195.473, 2006, Jan, Philippines, PHL
-128.461, 2006, Feb, Philippines, PHL
-135.422, 2006, Mar, Philippines, PHL
-71.6939, 2006, Apr, Philippines, PHL
-187.768, 2006, May, Philippines, PHL
-192.044, 2006, Jun, Philippines, PHL
-303.868, 2006, Jul, Philippines, PHL
-255.022, 2006, Aug, Philippines, PHL
-247.584, 2006, Sep, Philippines, PHL
-268.056, 2006, Oct, Philippines, PHL
-170.766, 2006, Nov, Philippines, PHL
-257.116, 2006, Dec, Philippines, PHL
-214.036, 2007, Jan, Philippines, PHL
-38.4651, 2007, Feb, Philippines, PHL
-93.1389, 2007, Mar, Philippines, PHL
-77.5574, 2007, Apr, Philippines, PHL
-176.784, 2007, May, Philippines, PHL
-160.187, 2007, Jun, Philippines, PHL
-261.583, 2007, Jul, Philippines, PHL
-300.585, 2007, Aug, Philippines, PHL
-296.795, 2007, Sep, Philippines, PHL
-305.593, 2007, Oct, Philippines, PHL
-432.394, 2007, Nov, Philippines, PHL
-237.106, 2007, Dec, Philippines, PHL
-248.663, 2008, Jan, Philippines, PHL
-201.295, 2008, Feb, Philippines, PHL
-153.014, 2008, Mar, Philippines, PHL
-161.88, 2008, Apr, Philippines, PHL
-290.316, 2008, May, Philippines, PHL
-258.397, 2008, Jun, Philippines, PHL
-357.281, 2008, Jul, Philippines, PHL
-345.901, 2008, Aug, Philippines, PHL
-342.705, 2008, Sep, Philippines, PHL
-257.094, 2008, Oct, Philippines, PHL
-319.194, 2008, Nov, Philippines, PHL
-176.686, 2008, Dec, Philippines, PHL
-123.357, 2009, Jan, Philippines, PHL
-156.33, 2009, Feb, Philippines, PHL
-163.106, 2009, Mar, Philippines, PHL
-228.409, 2009, Apr, Philippines, PHL
-229.069, 2009, May, Philippines, PHL
-355.746, 2009, Jun, Philippines, PHL
-385.914, 2009, Jul, Philippines, PHL
-207.002, 2009, Aug, Philippines, PHL
-309.029, 2009, Sep, Philippines, PHL
-314.167, 2009, Oct, Philippines, PHL
-211.821, 2009, Nov, Philippines, PHL
-93.7656, 2009, Dec, Philippines, PHL
-147.433, 2010, Jan, Philippines, PHL
-22.2695, 2010, Feb, Philippines, PHL
-48.4392, 2010, Mar, Philippines, PHL
-124.217, 2010, Apr, Philippines, PHL
-171.418, 2010, May, Philippines, PHL
-204.874, 2010, Jun, Philippines, PHL
-285.535, 2010, Jul, Philippines, PHL
-303.878, 2010, Aug, Philippines, PHL
-222.885, 2010, Sep, Philippines, PHL
-381.625, 2010, Oct, Philippines, PHL
-334.305, 2010, Nov, Philippines, PHL
-183.569, 2010, Dec, Philippines, PHL
-134.107, 2011, Jan, Philippines, PHL
-155.203, 2011, Feb, Philippines, PHL
-163.661, 2011, Mar, Philippines, PHL
-80.7877, 2011, Apr, Philippines, PHL
-321.678, 2011, May, Philippines, PHL
-376.948, 2011, Jun, Philippines, PHL
-360.753, 2011, Jul, Philippines, PHL
-387.017, 2011, Aug, Philippines, PHL
-355.046, 2011, Sep, Philippines, PHL
-284.866, 2011, Oct, Philippines, PHL
-253.478, 2011, Nov, Philippines, PHL
-340.097, 2011, Dec, Philippines, PHL
-249.106, 2012, Jan, Philippines, PHL
-224.318, 2012, Feb, Philippines, PHL
-132.064, 2012, Mar, Philippines, PHL
-122.989, 2012, Apr, Philippines, PHL
-200.124, 2012, May, Philippines, PHL
-386.724, 2012, Jun, Philippines, PHL
-363.233, 2012, Jul, Philippines, PHL
-299.977, 2012, Aug, Philippines, PHL
-275.994, 2012, Sep, Philippines, PHL
-356.881, 2012, Oct, Philippines, PHL
-174.617, 2012, Nov, Philippines, PHL
-208.407, 2012, Dec, Philippines, PHL
-173.165, 2013, Jan, Philippines, PHL
-161.033, 2013, Feb, Philippines, PHL
-103.399, 2013, Mar, Philippines, PHL
-126.172, 2013, Apr, Philippines, PHL
-160.118, 2013, May, Philippines, PHL
-302.813, 2013, Jun, Philippines, PHL
-244.937, 2013, Jul, Philippines, PHL
-304.458, 2013, Aug, Philippines, PHL
-272.337, 2013, Sep, Philippines, PHL
-273.875, 2013, Oct, Philippines, PHL
-277.487, 2013, Nov, Philippines, PHL
-192.412, 2013, Dec, Philippines, PHL
-140.969, 2014, Jan, Philippines, PHL
-70.9103, 2014, Feb, Philippines, PHL
-137.034, 2014, Mar, Philippines, PHL
-78.7527, 2014, Apr, Philippines, PHL
-84.7706, 2014, May, Philippines, PHL
-217.091, 2014, Jun, Philippines, PHL
-310.703, 2014, Jul, Philippines, PHL
-254.864, 2014, Aug, Philippines, PHL
-392.104, 2014, Sep, Philippines, PHL
-270.095, 2014, Oct, Philippines, PHL
-170.087, 2014, Nov, Philippines, PHL
-246.709, 2014, Dec, Philippines, PHL
-177.285, 2015, Jan, Philippines, PHL
-49.4737, 2015, Feb, Philippines, PHL
-41.4961, 2015, Mar, Philippines, PHL
-64.1854, 2015, Apr, Philippines, PHL
-80.9203, 2015, May, Philippines, PHL
-274.411, 2015, Jun, Philippines, PHL
-282.168, 2015, Jul, Philippines, PHL
-309.516, 2015, Aug, Philippines, PHL
-314.826, 2015, Sep, Philippines, PHL
-276.039, 2015, Oct, Philippines, PHL
-163.133, 2015, Nov, Philippines, PHL
-247.818, 2015, Dec, Philippines, PHL
-59.5664, 2016, Jan, Philippines, PHL
-95.4018, 2016, Feb, Philippines, PHL
-23.4355, 2016, Mar, Philippines, PHL
-44.28, 2016, Apr, Philippines, PHL
-204.91, 2016, May, Philippines, PHL
-233.705, 2016, Jun, Philippines, PHL
-292.354, 2016, Jul, Philippines, PHL
-262.967, 2016, Aug, Philippines, PHL
-293.712, 2016, Sep, Philippines, PHL
-448.089, 2016, Oct, Philippines, PHL
-263.913, 2016, Nov, Philippines, PHL
-210.396, 2016, Dec, Philippines, PHL
+rainfall_mm,year,month,country,ISO3
+84.8271,1901,Jan,Philippines,PHL
+130.146,1901,Feb,Philippines,PHL
+113.285,1901,Mar,Philippines,PHL
+82.0298,1901,Apr,Philippines,PHL
+153.515,1901,May,Philippines,PHL
+191.357,1901,Jun,Philippines,PHL
+235.544,1901,Jul,Philippines,PHL
+286.227,1901,Aug,Philippines,PHL
+182.644,1901,Sep,Philippines,PHL
+431.892,1901,Oct,Philippines,PHL
+452.221,1901,Nov,Philippines,PHL
+247.594,1901,Dec,Philippines,PHL
+228.098,1902,Jan,Philippines,PHL
+77.0102,1902,Feb,Philippines,PHL
+87.9955,1902,Mar,Philippines,PHL
+108.79,1902,Apr,Philippines,PHL
+169.797,1902,May,Philippines,PHL
+235.084,1902,Jun,Philippines,PHL
+316.454,1902,Jul,Philippines,PHL
+336.541,1902,Aug,Philippines,PHL
+304.583,1902,Sep,Philippines,PHL
+170.598,1902,Oct,Philippines,PHL
+156.351,1902,Nov,Philippines,PHL
+158.788,1902,Dec,Philippines,PHL
+108.811,1903,Jan,Philippines,PHL
+81.7573,1903,Feb,Philippines,PHL
+29.6247,1903,Mar,Philippines,PHL
+66.8856,1903,Apr,Philippines,PHL
+152.552,1903,May,Philippines,PHL
+206.134,1903,Jun,Philippines,PHL
+241.052,1903,Jul,Philippines,PHL
+186.475,1903,Aug,Philippines,PHL
+225.016,1903,Sep,Philippines,PHL
+323.011,1903,Oct,Philippines,PHL
+270.393,1903,Nov,Philippines,PHL
+254.738,1903,Dec,Philippines,PHL
+230.432,1904,Jan,Philippines,PHL
+167.868,1904,Feb,Philippines,PHL
+77.7468,1904,Mar,Philippines,PHL
+175.88,1904,Apr,Philippines,PHL
+174.21,1904,May,Philippines,PHL
+319.629,1904,Jun,Philippines,PHL
+320.697,1904,Jul,Philippines,PHL
+317.769,1904,Aug,Philippines,PHL
+235.234,1904,Sep,Philippines,PHL
+279.757,1904,Oct,Philippines,PHL
+252.547,1904,Nov,Philippines,PHL
+104.164,1904,Dec,Philippines,PHL
+43.1627,1905,Jan,Philippines,PHL
+45.7115,1905,Feb,Philippines,PHL
+75.7852,1905,Mar,Philippines,PHL
+70.9413,1905,Apr,Philippines,PHL
+154.31,1905,May,Philippines,PHL
+321.152,1905,Jun,Philippines,PHL
+373.126,1905,Jul,Philippines,PHL
+305.097,1905,Aug,Philippines,PHL
+312.652,1905,Sep,Philippines,PHL
+213.795,1905,Oct,Philippines,PHL
+117.311,1905,Nov,Philippines,PHL
+144.744,1905,Dec,Philippines,PHL
+124.667,1906,Jan,Philippines,PHL
+53.8727,1906,Feb,Philippines,PHL
+95.2109,1906,Mar,Philippines,PHL
+87.056,1906,Apr,Philippines,PHL
+287.551,1906,May,Philippines,PHL
+254.016,1906,Jun,Philippines,PHL
+226.104,1906,Jul,Philippines,PHL
+302.484,1906,Aug,Philippines,PHL
+378.428,1906,Sep,Philippines,PHL
+303.821,1906,Oct,Philippines,PHL
+355.523,1906,Nov,Philippines,PHL
+149.284,1906,Dec,Philippines,PHL
+169.69,1907,Jan,Philippines,PHL
+152.576,1907,Feb,Philippines,PHL
+94.4348,1907,Mar,Philippines,PHL
+76.8141,1907,Apr,Philippines,PHL
+113.534,1907,May,Philippines,PHL
+190.454,1907,Jun,Philippines,PHL
+310.639,1907,Jul,Philippines,PHL
+317.836,1907,Aug,Philippines,PHL
+239.076,1907,Sep,Philippines,PHL
+223.074,1907,Oct,Philippines,PHL
+164.783,1907,Nov,Philippines,PHL
+278.27,1907,Dec,Philippines,PHL
+137.741,1908,Jan,Philippines,PHL
+197.617,1908,Feb,Philippines,PHL
+122.998,1908,Mar,Philippines,PHL
+76.5703,1908,Apr,Philippines,PHL
+268.495,1908,May,Philippines,PHL
+278.382,1908,Jun,Philippines,PHL
+299.518,1908,Jul,Philippines,PHL
+264.829,1908,Aug,Philippines,PHL
+320.381,1908,Sep,Philippines,PHL
+303.188,1908,Oct,Philippines,PHL
+363.898,1908,Nov,Philippines,PHL
+335.438,1908,Dec,Philippines,PHL
+118.441,1909,Jan,Philippines,PHL
+113.46,1909,Feb,Philippines,PHL
+156.789,1909,Mar,Philippines,PHL
+64.4346,1909,Apr,Philippines,PHL
+179.671,1909,May,Philippines,PHL
+223.807,1909,Jun,Philippines,PHL
+367.313,1909,Jul,Philippines,PHL
+198.336,1909,Aug,Philippines,PHL
+318.264,1909,Sep,Philippines,PHL
+327.256,1909,Oct,Philippines,PHL
+320.256,1909,Nov,Philippines,PHL
+312.176,1909,Dec,Philippines,PHL
+154.448,1910,Jan,Philippines,PHL
+184.381,1910,Feb,Philippines,PHL
+149.892,1910,Mar,Philippines,PHL
+193.839,1910,Apr,Philippines,PHL
+237.784,1910,May,Philippines,PHL
+254.756,1910,Jun,Philippines,PHL
+149.656,1910,Jul,Philippines,PHL
+311.249,1910,Aug,Philippines,PHL
+352.572,1910,Sep,Philippines,PHL
+262.67,1910,Oct,Philippines,PHL
+343.91,1910,Nov,Philippines,PHL
+288.264,1910,Dec,Philippines,PHL
+73.2536,1911,Jan,Philippines,PHL
+149.834,1911,Feb,Philippines,PHL
+89.0535,1911,Mar,Philippines,PHL
+170.668,1911,Apr,Philippines,PHL
+167.57,1911,May,Philippines,PHL
+261.364,1911,Jun,Philippines,PHL
+449.765,1911,Jul,Philippines,PHL
+364.226,1911,Aug,Philippines,PHL
+315.817,1911,Sep,Philippines,PHL
+189.9,1911,Oct,Philippines,PHL
+65.0672,1911,Nov,Philippines,PHL
+168.706,1911,Dec,Philippines,PHL
+95.3455,1912,Jan,Philippines,PHL
+92.7969,1912,Feb,Philippines,PHL
+26.994,1912,Mar,Philippines,PHL
+61.5185,1912,Apr,Philippines,PHL
+67.9246,1912,May,Philippines,PHL
+160.71,1912,Jun,Philippines,PHL
+324.515,1912,Jul,Philippines,PHL
+326.313,1912,Aug,Philippines,PHL
+308.621,1912,Sep,Philippines,PHL
+343.614,1912,Oct,Philippines,PHL
+272.365,1912,Nov,Philippines,PHL
+131.962,1912,Dec,Philippines,PHL
+151.785,1913,Jan,Philippines,PHL
+90.4329,1913,Feb,Philippines,PHL
+64.8166,1913,Mar,Philippines,PHL
+110.012,1913,Apr,Philippines,PHL
+182.232,1913,May,Philippines,PHL
+249.61,1913,Jun,Philippines,PHL
+393.048,1913,Jul,Philippines,PHL
+308.517,1913,Aug,Philippines,PHL
+219.846,1913,Sep,Philippines,PHL
+268.557,1913,Oct,Philippines,PHL
+144.924,1913,Nov,Philippines,PHL
+178.876,1913,Dec,Philippines,PHL
+73.3958,1914,Jan,Philippines,PHL
+29.4569,1914,Feb,Philippines,PHL
+84.2146,1914,Mar,Philippines,PHL
+80.2112,1914,Apr,Philippines,PHL
+172.387,1914,May,Philippines,PHL
+413.154,1914,Jun,Philippines,PHL
+221.012,1914,Jul,Philippines,PHL
+373.741,1914,Aug,Philippines,PHL
+283.089,1914,Sep,Philippines,PHL
+158.558,1914,Oct,Philippines,PHL
+101.386,1914,Nov,Philippines,PHL
+108.953,1914,Dec,Philippines,PHL
+92.9292,1915,Jan,Philippines,PHL
+23.2109,1915,Feb,Philippines,PHL
+47.8448,1915,Mar,Philippines,PHL
+50.5363,1915,Apr,Philippines,PHL
+173.275,1915,May,Philippines,PHL
+264.638,1915,Jun,Philippines,PHL
+260.034,1915,Jul,Philippines,PHL
+265.472,1915,Aug,Philippines,PHL
+225.378,1915,Sep,Philippines,PHL
+373.539,1915,Oct,Philippines,PHL
+276.679,1915,Nov,Philippines,PHL
+320.813,1915,Dec,Philippines,PHL
+331.455,1916,Jan,Philippines,PHL
+175.729,1916,Feb,Philippines,PHL
+132.324,1916,Mar,Philippines,PHL
+109.385,1916,Apr,Philippines,PHL
+212.783,1916,May,Philippines,PHL
+278.754,1916,Jun,Philippines,PHL
+250.492,1916,Jul,Philippines,PHL
+262.008,1916,Aug,Philippines,PHL
+368.049,1916,Sep,Philippines,PHL
+334.169,1916,Oct,Philippines,PHL
+211.682,1916,Nov,Philippines,PHL
+261.949,1916,Dec,Philippines,PHL
+203.996,1917,Jan,Philippines,PHL
+125.78,1917,Feb,Philippines,PHL
+139.26,1917,Mar,Philippines,PHL
+104.449,1917,Apr,Philippines,PHL
+218.916,1917,May,Philippines,PHL
+323.533,1917,Jun,Philippines,PHL
+293.858,1917,Jul,Philippines,PHL
+251.145,1917,Aug,Philippines,PHL
+288.205,1917,Sep,Philippines,PHL
+307.2,1917,Oct,Philippines,PHL
+292.907,1917,Nov,Philippines,PHL
+203.626,1917,Dec,Philippines,PHL
+234.401,1918,Jan,Philippines,PHL
+151.401,1918,Feb,Philippines,PHL
+153.706,1918,Mar,Philippines,PHL
+102.739,1918,Apr,Philippines,PHL
+157.258,1918,May,Philippines,PHL
+434.132,1918,Jun,Philippines,PHL
+204.881,1918,Jul,Philippines,PHL
+299.753,1918,Aug,Philippines,PHL
+203.528,1918,Sep,Philippines,PHL
+296.987,1918,Oct,Philippines,PHL
+114.451,1918,Nov,Philippines,PHL
+159.266,1918,Dec,Philippines,PHL
+63.172,1919,Jan,Philippines,PHL
+65.5647,1919,Feb,Philippines,PHL
+54.8719,1919,Mar,Philippines,PHL
+56.396,1919,Apr,Philippines,PHL
+168.055,1919,May,Philippines,PHL
+217.903,1919,Jun,Philippines,PHL
+532.758,1919,Jul,Philippines,PHL
+287.79,1919,Aug,Philippines,PHL
+216.947,1919,Sep,Philippines,PHL
+324.995,1919,Oct,Philippines,PHL
+249.43,1919,Nov,Philippines,PHL
+203.57,1919,Dec,Philippines,PHL
+142.428,1920,Jan,Philippines,PHL
+123.241,1920,Feb,Philippines,PHL
+64.6686,1920,Mar,Philippines,PHL
+71.6909,1920,Apr,Philippines,PHL
+131.316,1920,May,Philippines,PHL
+351.997,1920,Jun,Philippines,PHL
+263.919,1920,Jul,Philippines,PHL
+177.754,1920,Aug,Philippines,PHL
+310.476,1920,Sep,Philippines,PHL
+240.704,1920,Oct,Philippines,PHL
+205.154,1920,Nov,Philippines,PHL
+206.427,1920,Dec,Philippines,PHL
+151.043,1921,Jan,Philippines,PHL
+170.707,1921,Feb,Philippines,PHL
+149.316,1921,Mar,Philippines,PHL
+113.365,1921,Apr,Philippines,PHL
+194.834,1921,May,Philippines,PHL
+241.068,1921,Jun,Philippines,PHL
+408.9,1921,Jul,Philippines,PHL
+293.847,1921,Aug,Philippines,PHL
+277.249,1921,Sep,Philippines,PHL
+208.442,1921,Oct,Philippines,PHL
+426.656,1921,Nov,Philippines,PHL
+191.568,1921,Dec,Philippines,PHL
+155.856,1922,Jan,Philippines,PHL
+113.7,1922,Feb,Philippines,PHL
+107.135,1922,Mar,Philippines,PHL
+74.4525,1922,Apr,Philippines,PHL
+254.668,1922,May,Philippines,PHL
+243.245,1922,Jun,Philippines,PHL
+316.328,1922,Jul,Philippines,PHL
+322.445,1922,Aug,Philippines,PHL
+342.063,1922,Sep,Philippines,PHL
+234.156,1922,Oct,Philippines,PHL
+303.319,1922,Nov,Philippines,PHL
+242.041,1922,Dec,Philippines,PHL
+245.111,1923,Jan,Philippines,PHL
+104.085,1923,Feb,Philippines,PHL
+126.578,1923,Mar,Philippines,PHL
+128.837,1923,Apr,Philippines,PHL
+334.405,1923,May,Philippines,PHL
+301.746,1923,Jun,Philippines,PHL
+553.07,1923,Jul,Philippines,PHL
+272.839,1923,Aug,Philippines,PHL
+223.096,1923,Sep,Philippines,PHL
+177.845,1923,Oct,Philippines,PHL
+272.167,1923,Nov,Philippines,PHL
+76.9274,1923,Dec,Philippines,PHL
+107.576,1924,Jan,Philippines,PHL
+88.8182,1924,Feb,Philippines,PHL
+107.401,1924,Mar,Philippines,PHL
+69.0489,1924,Apr,Philippines,PHL
+189.565,1924,May,Philippines,PHL
+309.348,1924,Jun,Philippines,PHL
+355.952,1924,Jul,Philippines,PHL
+316.629,1924,Aug,Philippines,PHL
+204.947,1924,Sep,Philippines,PHL
+402.225,1924,Oct,Philippines,PHL
+375.118,1924,Nov,Philippines,PHL
+354.412,1924,Dec,Philippines,PHL
+127.991,1925,Jan,Philippines,PHL
+186.753,1925,Feb,Philippines,PHL
+148.592,1925,Mar,Philippines,PHL
+147.048,1925,Apr,Philippines,PHL
+211.055,1925,May,Philippines,PHL
+317.958,1925,Jun,Philippines,PHL
+357.108,1925,Jul,Philippines,PHL
+323.286,1925,Aug,Philippines,PHL
+246.593,1925,Sep,Philippines,PHL
+267.764,1925,Oct,Philippines,PHL
+146.988,1925,Nov,Philippines,PHL
+137.443,1925,Dec,Philippines,PHL
+153.882,1926,Jan,Philippines,PHL
+83.5782,1926,Feb,Philippines,PHL
+55.349,1926,Mar,Philippines,PHL
+32.4398,1926,Apr,Philippines,PHL
+162.62,1926,May,Philippines,PHL
+330.563,1926,Jun,Philippines,PHL
+334.513,1926,Jul,Philippines,PHL
+353.172,1926,Aug,Philippines,PHL
+324.368,1926,Sep,Philippines,PHL
+320.787,1926,Oct,Philippines,PHL
+252.986,1926,Nov,Philippines,PHL
+197.108,1926,Dec,Philippines,PHL
+160.878,1927,Jan,Philippines,PHL
+79.9676,1927,Feb,Philippines,PHL
+94.634,1927,Mar,Philippines,PHL
+139.954,1927,Apr,Philippines,PHL
+224.522,1927,May,Philippines,PHL
+252.584,1927,Jun,Philippines,PHL
+288.773,1927,Jul,Philippines,PHL
+316.595,1927,Aug,Philippines,PHL
+148.604,1927,Sep,Philippines,PHL
+260.353,1927,Oct,Philippines,PHL
+196.216,1927,Nov,Philippines,PHL
+170.102,1927,Dec,Philippines,PHL
+151.926,1928,Jan,Philippines,PHL
+170.55,1928,Feb,Philippines,PHL
+103.376,1928,Mar,Philippines,PHL
+166.117,1928,Apr,Philippines,PHL
+174.569,1928,May,Philippines,PHL
+237.844,1928,Jun,Philippines,PHL
+324.936,1928,Jul,Philippines,PHL
+213.454,1928,Aug,Philippines,PHL
+239.585,1928,Sep,Philippines,PHL
+234.469,1928,Oct,Philippines,PHL
+281.911,1928,Nov,Philippines,PHL
+193.112,1928,Dec,Philippines,PHL
+235.939,1929,Jan,Philippines,PHL
+70.2262,1929,Feb,Philippines,PHL
+124.632,1929,Mar,Philippines,PHL
+108.582,1929,Apr,Philippines,PHL
+221.246,1929,May,Philippines,PHL
+218.106,1929,Jun,Philippines,PHL
+339.757,1929,Jul,Philippines,PHL
+340.074,1929,Aug,Philippines,PHL
+241.764,1929,Sep,Philippines,PHL
+241.589,1929,Oct,Philippines,PHL
+206.396,1929,Nov,Philippines,PHL
+159.656,1929,Dec,Philippines,PHL
+129.324,1930,Jan,Philippines,PHL
+60.1822,1930,Feb,Philippines,PHL
+46.4435,1930,Mar,Philippines,PHL
+98.7157,1930,Apr,Philippines,PHL
+295.039,1930,May,Philippines,PHL
+349.186,1930,Jun,Philippines,PHL
+218.721,1930,Jul,Philippines,PHL
+238.651,1930,Aug,Philippines,PHL
+217.229,1930,Sep,Philippines,PHL
+166.813,1930,Oct,Philippines,PHL
+175.111,1930,Nov,Philippines,PHL
+216.767,1930,Dec,Philippines,PHL
+131.753,1931,Jan,Philippines,PHL
+25.9254,1931,Feb,Philippines,PHL
+39.7019,1931,Mar,Philippines,PHL
+69.429,1931,Apr,Philippines,PHL
+157.17,1931,May,Philippines,PHL
+222.146,1931,Jun,Philippines,PHL
+358.873,1931,Jul,Philippines,PHL
+297.744,1931,Aug,Philippines,PHL
+306.566,1931,Sep,Philippines,PHL
+327.981,1931,Oct,Philippines,PHL
+297.597,1931,Nov,Philippines,PHL
+186.664,1931,Dec,Philippines,PHL
+113.667,1932,Jan,Philippines,PHL
+84.3524,1932,Feb,Philippines,PHL
+107.577,1932,Mar,Philippines,PHL
+53.7584,1932,Apr,Philippines,PHL
+234.195,1932,May,Philippines,PHL
+323.463,1932,Jun,Philippines,PHL
+375.13,1932,Jul,Philippines,PHL
+232.975,1932,Aug,Philippines,PHL
+303.689,1932,Sep,Philippines,PHL
+284.414,1932,Oct,Philippines,PHL
+310.917,1932,Nov,Philippines,PHL
+178.551,1932,Dec,Philippines,PHL
+173.65,1933,Jan,Philippines,PHL
+116.081,1933,Feb,Philippines,PHL
+55.9788,1933,Mar,Philippines,PHL
+59.0849,1933,Apr,Philippines,PHL
+160.699,1933,May,Philippines,PHL
+274.538,1933,Jun,Philippines,PHL
+269.314,1933,Jul,Philippines,PHL
+205.578,1933,Aug,Philippines,PHL
+307.567,1933,Sep,Philippines,PHL
+365.834,1933,Oct,Philippines,PHL
+268.779,1933,Nov,Philippines,PHL
+214.213,1933,Dec,Philippines,PHL
+206.925,1934,Jan,Philippines,PHL
+231.827,1934,Feb,Philippines,PHL
+168.731,1934,Mar,Philippines,PHL
+170.35,1934,Apr,Philippines,PHL
+259.498,1934,May,Philippines,PHL
+239.827,1934,Jun,Philippines,PHL
+289.146,1934,Jul,Philippines,PHL
+460.558,1934,Aug,Philippines,PHL
+340.18,1934,Sep,Philippines,PHL
+303.132,1934,Oct,Philippines,PHL
+393.362,1934,Nov,Philippines,PHL
+261.055,1934,Dec,Philippines,PHL
+46.347,1935,Jan,Philippines,PHL
+108.514,1935,Feb,Philippines,PHL
+89.9153,1935,Mar,Philippines,PHL
+116.148,1935,Apr,Philippines,PHL
+264.842,1935,May,Philippines,PHL
+210.922,1935,Jun,Philippines,PHL
+392.676,1935,Jul,Philippines,PHL
+248.155,1935,Aug,Philippines,PHL
+313.631,1935,Sep,Philippines,PHL
+251.063,1935,Oct,Philippines,PHL
+250.326,1935,Nov,Philippines,PHL
+161.82,1935,Dec,Philippines,PHL
+157.606,1936,Jan,Philippines,PHL
+41.0892,1936,Feb,Philippines,PHL
+88.427,1936,Mar,Philippines,PHL
+100.637,1936,Apr,Philippines,PHL
+195.783,1936,May,Philippines,PHL
+210.402,1936,Jun,Philippines,PHL
+397.024,1936,Jul,Philippines,PHL
+383.904,1936,Aug,Philippines,PHL
+240.593,1936,Sep,Philippines,PHL
+320.05,1936,Oct,Philippines,PHL
+207.427,1936,Nov,Philippines,PHL
+253.229,1936,Dec,Philippines,PHL
+147.962,1937,Jan,Philippines,PHL
+87.2962,1937,Feb,Philippines,PHL
+120.97,1937,Mar,Philippines,PHL
+84.0075,1937,Apr,Philippines,PHL
+199.95,1937,May,Philippines,PHL
+287.368,1937,Jun,Philippines,PHL
+339.974,1937,Jul,Philippines,PHL
+383.798,1937,Aug,Philippines,PHL
+272.008,1937,Sep,Philippines,PHL
+267.326,1937,Oct,Philippines,PHL
+266.588,1937,Nov,Philippines,PHL
+184.952,1937,Dec,Philippines,PHL
+114.788,1938,Jan,Philippines,PHL
+100.078,1938,Feb,Philippines,PHL
+123.516,1938,Mar,Philippines,PHL
+186.516,1938,Apr,Philippines,PHL
+199.069,1938,May,Philippines,PHL
+285.142,1938,Jun,Philippines,PHL
+223.62,1938,Jul,Philippines,PHL
+176.761,1938,Aug,Philippines,PHL
+245.301,1938,Sep,Philippines,PHL
+334.596,1938,Oct,Philippines,PHL
+299.265,1938,Nov,Philippines,PHL
+252.414,1938,Dec,Philippines,PHL
+210.351,1939,Jan,Philippines,PHL
+141.958,1939,Feb,Philippines,PHL
+105.639,1939,Mar,Philippines,PHL
+122.806,1939,Apr,Philippines,PHL
+295.017,1939,May,Philippines,PHL
+306.861,1939,Jun,Philippines,PHL
+267.097,1939,Jul,Philippines,PHL
+261.714,1939,Aug,Philippines,PHL
+204.04,1939,Sep,Philippines,PHL
+253.289,1939,Oct,Philippines,PHL
+272.486,1939,Nov,Philippines,PHL
+331.983,1939,Dec,Philippines,PHL
+93.7519,1940,Jan,Philippines,PHL
+96.6981,1940,Feb,Philippines,PHL
+49.5567,1940,Mar,Philippines,PHL
+84.8405,1940,Apr,Philippines,PHL
+135.688,1940,May,Philippines,PHL
+235.41,1940,Jun,Philippines,PHL
+347.467,1940,Jul,Philippines,PHL
+398.276,1940,Aug,Philippines,PHL
+259.95,1940,Sep,Philippines,PHL
+208.122,1940,Oct,Philippines,PHL
+153.089,1940,Nov,Philippines,PHL
+148.963,1940,Dec,Philippines,PHL
+130.167,1941,Jan,Philippines,PHL
+89.4134,1941,Feb,Philippines,PHL
+80.8199,1941,Mar,Philippines,PHL
+90.5204,1941,Apr,Philippines,PHL
+190.533,1941,May,Philippines,PHL
+255.733,1941,Jun,Philippines,PHL
+295.802,1941,Jul,Philippines,PHL
+296.642,1941,Aug,Philippines,PHL
+273.107,1941,Sep,Philippines,PHL
+269.677,1941,Oct,Philippines,PHL
+237.088,1941,Nov,Philippines,PHL
+171.589,1941,Dec,Philippines,PHL
+129.689,1942,Jan,Philippines,PHL
+86.8369,1942,Feb,Philippines,PHL
+78.9782,1942,Mar,Philippines,PHL
+88.2772,1942,Apr,Philippines,PHL
+177.491,1942,May,Philippines,PHL
+256.601,1942,Jun,Philippines,PHL
+308.156,1942,Jul,Philippines,PHL
+299.195,1942,Aug,Philippines,PHL
+278.558,1942,Sep,Philippines,PHL
+270.6,1942,Oct,Philippines,PHL
+235.861,1942,Nov,Philippines,PHL
+170.07,1942,Dec,Philippines,PHL
+130.363,1943,Jan,Philippines,PHL
+87.6872,1943,Feb,Philippines,PHL
+80.5073,1943,Mar,Philippines,PHL
+87.7778,1943,Apr,Philippines,PHL
+176.602,1943,May,Philippines,PHL
+261.489,1943,Jun,Philippines,PHL
+311.801,1943,Jul,Philippines,PHL
+297.472,1943,Aug,Philippines,PHL
+273.026,1943,Sep,Philippines,PHL
+268.538,1943,Oct,Philippines,PHL
+239.926,1943,Nov,Philippines,PHL
+167.25,1943,Dec,Philippines,PHL
+129.342,1944,Jan,Philippines,PHL
+87.1381,1944,Feb,Philippines,PHL
+79.7128,1944,Mar,Philippines,PHL
+88.2976,1944,Apr,Philippines,PHL
+180.04,1944,May,Philippines,PHL
+264.245,1944,Jun,Philippines,PHL
+299.455,1944,Jul,Philippines,PHL
+307.697,1944,Aug,Philippines,PHL
+271.362,1944,Sep,Philippines,PHL
+269.887,1944,Oct,Philippines,PHL
+241.466,1944,Nov,Philippines,PHL
+169.864,1944,Dec,Philippines,PHL
+128.954,1945,Jan,Philippines,PHL
+88.7542,1945,Feb,Philippines,PHL
+79.7644,1945,Mar,Philippines,PHL
+87.6309,1945,Apr,Philippines,PHL
+178.781,1945,May,Philippines,PHL
+257.552,1945,Jun,Philippines,PHL
+304.146,1945,Jul,Philippines,PHL
+308.079,1945,Aug,Philippines,PHL
+275.954,1945,Sep,Philippines,PHL
+289.719,1945,Oct,Philippines,PHL
+235.059,1945,Nov,Philippines,PHL
+164.49,1945,Dec,Philippines,PHL
+84.5516,1946,Jan,Philippines,PHL
+59.9886,1946,Feb,Philippines,PHL
+103.452,1946,Mar,Philippines,PHL
+87.5282,1946,Apr,Philippines,PHL
+168.596,1946,May,Philippines,PHL
+276.675,1946,Jun,Philippines,PHL
+357.824,1946,Jul,Philippines,PHL
+244.31,1946,Aug,Philippines,PHL
+323.861,1946,Sep,Philippines,PHL
+286.936,1946,Oct,Philippines,PHL
+140.443,1946,Nov,Philippines,PHL
+204.109,1946,Dec,Philippines,PHL
+75.671,1947,Jan,Philippines,PHL
+81.9802,1947,Feb,Philippines,PHL
+155.792,1947,Mar,Philippines,PHL
+117.67,1947,Apr,Philippines,PHL
+221.098,1947,May,Philippines,PHL
+315.113,1947,Jun,Philippines,PHL
+263.108,1947,Jul,Philippines,PHL
+340.655,1947,Aug,Philippines,PHL
+224.478,1947,Sep,Philippines,PHL
+355.742,1947,Oct,Philippines,PHL
+317.236,1947,Nov,Philippines,PHL
+288.687,1947,Dec,Philippines,PHL
+88.2407,1948,Jan,Philippines,PHL
+61.5552,1948,Feb,Philippines,PHL
+80.7628,1948,Mar,Philippines,PHL
+83.4608,1948,Apr,Philippines,PHL
+127.144,1948,May,Philippines,PHL
+187.079,1948,Jun,Philippines,PHL
+373.779,1948,Jul,Philippines,PHL
+311.748,1948,Aug,Philippines,PHL
+260.862,1948,Sep,Philippines,PHL
+202.923,1948,Oct,Philippines,PHL
+283.361,1948,Nov,Philippines,PHL
+167.977,1948,Dec,Philippines,PHL
+70.5381,1949,Jan,Philippines,PHL
+69.2035,1949,Feb,Philippines,PHL
+84.5289,1949,Mar,Philippines,PHL
+59.2349,1949,Apr,Philippines,PHL
+129.618,1949,May,Philippines,PHL
+205.115,1949,Jun,Philippines,PHL
+251.171,1949,Jul,Philippines,PHL
+271.79,1949,Aug,Philippines,PHL
+281.912,1949,Sep,Philippines,PHL
+333.178,1949,Oct,Philippines,PHL
+273.784,1949,Nov,Philippines,PHL
+303.507,1949,Dec,Philippines,PHL
+162.088,1950,Jan,Philippines,PHL
+89.2357,1950,Feb,Philippines,PHL
+174.64,1950,Mar,Philippines,PHL
+104.387,1950,Apr,Philippines,PHL
+184.845,1950,May,Philippines,PHL
+315.926,1950,Jun,Philippines,PHL
+218.095,1950,Jul,Philippines,PHL
+265.608,1950,Aug,Philippines,PHL
+311.827,1950,Sep,Philippines,PHL
+268.875,1950,Oct,Philippines,PHL
+183.872,1950,Nov,Philippines,PHL
+163.002,1950,Dec,Philippines,PHL
+96.8936,1951,Jan,Philippines,PHL
+81.2971,1951,Feb,Philippines,PHL
+55.7225,1951,Mar,Philippines,PHL
+91.2684,1951,Apr,Philippines,PHL
+209.232,1951,May,Philippines,PHL
+213.714,1951,Jun,Philippines,PHL
+286.456,1951,Jul,Philippines,PHL
+306.479,1951,Aug,Philippines,PHL
+301.626,1951,Sep,Philippines,PHL
+176.193,1951,Oct,Philippines,PHL
+298.34,1951,Nov,Philippines,PHL
+245.818,1951,Dec,Philippines,PHL
+88.2618,1952,Jan,Philippines,PHL
+91.187,1952,Feb,Philippines,PHL
+74.0408,1952,Mar,Philippines,PHL
+94.0177,1952,Apr,Philippines,PHL
+203.252,1952,May,Philippines,PHL
+287.813,1952,Jun,Philippines,PHL
+228.3,1952,Jul,Philippines,PHL
+427.905,1952,Aug,Philippines,PHL
+248.643,1952,Sep,Philippines,PHL
+360.226,1952,Oct,Philippines,PHL
+170.96,1952,Nov,Philippines,PHL
+336.201,1952,Dec,Philippines,PHL
+131.466,1953,Jan,Philippines,PHL
+115.098,1953,Feb,Philippines,PHL
+69.7,1953,Mar,Philippines,PHL
+72.7621,1953,Apr,Philippines,PHL
+164.46,1953,May,Philippines,PHL
+317.847,1953,Jun,Philippines,PHL
+269.89,1953,Jul,Philippines,PHL
+335.102,1953,Aug,Philippines,PHL
+205.476,1953,Sep,Philippines,PHL
+229.136,1953,Oct,Philippines,PHL
+340.113,1953,Nov,Philippines,PHL
+258.133,1953,Dec,Philippines,PHL
+70.0477,1954,Jan,Philippines,PHL
+82.6039,1954,Feb,Philippines,PHL
+178.668,1954,Mar,Philippines,PHL
+66.3831,1954,Apr,Philippines,PHL
+191.472,1954,May,Philippines,PHL
+217.836,1954,Jun,Philippines,PHL
+248.484,1954,Jul,Philippines,PHL
+311.481,1954,Aug,Philippines,PHL
+255.658,1954,Sep,Philippines,PHL
+225.173,1954,Oct,Philippines,PHL
+260.115,1954,Nov,Philippines,PHL
+237.345,1954,Dec,Philippines,PHL
+273.342,1955,Jan,Philippines,PHL
+57.6678,1955,Feb,Philippines,PHL
+73.5285,1955,Mar,Philippines,PHL
+85.9282,1955,Apr,Philippines,PHL
+158.387,1955,May,Philippines,PHL
+278.103,1955,Jun,Philippines,PHL
+214.781,1955,Jul,Philippines,PHL
+230.637,1955,Aug,Philippines,PHL
+231.403,1955,Sep,Philippines,PHL
+273.267,1955,Oct,Philippines,PHL
+305.144,1955,Nov,Philippines,PHL
+138.934,1955,Dec,Philippines,PHL
+148.894,1956,Jan,Philippines,PHL
+126.265,1956,Feb,Philippines,PHL
+101.674,1956,Mar,Philippines,PHL
+228.116,1956,Apr,Philippines,PHL
+271.324,1956,May,Philippines,PHL
+203.1,1956,Jun,Philippines,PHL
+235.349,1956,Jul,Philippines,PHL
+465.227,1956,Aug,Philippines,PHL
+341.175,1956,Sep,Philippines,PHL
+241.229,1956,Oct,Philippines,PHL
+257.574,1956,Nov,Philippines,PHL
+346.388,1956,Dec,Philippines,PHL
+155.65,1957,Jan,Philippines,PHL
+82.8469,1957,Feb,Philippines,PHL
+101.378,1957,Mar,Philippines,PHL
+105.696,1957,Apr,Philippines,PHL
+89.2888,1957,May,Philippines,PHL
+265.113,1957,Jun,Philippines,PHL
+241.92,1957,Jul,Philippines,PHL
+301.256,1957,Aug,Philippines,PHL
+262.356,1957,Sep,Philippines,PHL
+201.987,1957,Oct,Philippines,PHL
+185.583,1957,Nov,Philippines,PHL
+77.3636,1957,Dec,Philippines,PHL
+102.644,1958,Jan,Philippines,PHL
+80.785,1958,Feb,Philippines,PHL
+55.7261,1958,Mar,Philippines,PHL
+64.8455,1958,Apr,Philippines,PHL
+129.04,1958,May,Philippines,PHL
+228.765,1958,Jun,Philippines,PHL
+259.506,1958,Jul,Philippines,PHL
+315.386,1958,Aug,Philippines,PHL
+241.362,1958,Sep,Philippines,PHL
+290.172,1958,Oct,Philippines,PHL
+234.597,1958,Nov,Philippines,PHL
+97.4262,1958,Dec,Philippines,PHL
+109.08,1959,Jan,Philippines,PHL
+61.8739,1959,Feb,Philippines,PHL
+136.768,1959,Mar,Philippines,PHL
+53.0357,1959,Apr,Philippines,PHL
+216.766,1959,May,Philippines,PHL
+161.684,1959,Jun,Philippines,PHL
+269.871,1959,Jul,Philippines,PHL
+305.736,1959,Aug,Philippines,PHL
+205.622,1959,Sep,Philippines,PHL
+211.397,1959,Oct,Philippines,PHL
+294.319,1959,Nov,Philippines,PHL
+195.577,1959,Dec,Philippines,PHL
+120.123,1960,Jan,Philippines,PHL
+130.355,1960,Feb,Philippines,PHL
+82.0567,1960,Mar,Philippines,PHL
+139.662,1960,Apr,Philippines,PHL
+209.617,1960,May,Philippines,PHL
+264.813,1960,Jun,Philippines,PHL
+283.627,1960,Jul,Philippines,PHL
+294.807,1960,Aug,Philippines,PHL
+294.417,1960,Sep,Philippines,PHL
+333.241,1960,Oct,Philippines,PHL
+195.747,1960,Nov,Philippines,PHL
+121.27,1960,Dec,Philippines,PHL
+114.764,1961,Jan,Philippines,PHL
+82.1165,1961,Feb,Philippines,PHL
+91.9307,1961,Mar,Philippines,PHL
+103.102,1961,Apr,Philippines,PHL
+228.235,1961,May,Philippines,PHL
+343.535,1961,Jun,Philippines,PHL
+272.138,1961,Jul,Philippines,PHL
+359.989,1961,Aug,Philippines,PHL
+211.833,1961,Sep,Philippines,PHL
+256.313,1961,Oct,Philippines,PHL
+199.031,1961,Nov,Philippines,PHL
+134.792,1961,Dec,Philippines,PHL
+136.502,1962,Jan,Philippines,PHL
+134.864,1962,Feb,Philippines,PHL
+105.92,1962,Mar,Philippines,PHL
+83.2686,1962,Apr,Philippines,PHL
+222.594,1962,May,Philippines,PHL
+302.319,1962,Jun,Philippines,PHL
+375.759,1962,Jul,Philippines,PHL
+340.423,1962,Aug,Philippines,PHL
+390.251,1962,Sep,Philippines,PHL
+155.078,1962,Oct,Philippines,PHL
+226.935,1962,Nov,Philippines,PHL
+111.566,1962,Dec,Philippines,PHL
+130.931,1963,Jan,Philippines,PHL
+104.203,1963,Feb,Philippines,PHL
+87.7391,1963,Mar,Philippines,PHL
+50.3954,1963,Apr,Philippines,PHL
+187.285,1963,May,Philippines,PHL
+233.731,1963,Jun,Philippines,PHL
+237.705,1963,Jul,Philippines,PHL
+340.11,1963,Aug,Philippines,PHL
+302.253,1963,Sep,Philippines,PHL
+157.77,1963,Oct,Philippines,PHL
+137.384,1963,Nov,Philippines,PHL
+188.649,1963,Dec,Philippines,PHL
+83.0313,1964,Jan,Philippines,PHL
+145.86,1964,Feb,Philippines,PHL
+63.0533,1964,Mar,Philippines,PHL
+135.221,1964,Apr,Philippines,PHL
+218.643,1964,May,Philippines,PHL
+261.426,1964,Jun,Philippines,PHL
+260.668,1964,Jul,Philippines,PHL
+278.918,1964,Aug,Philippines,PHL
+283.269,1964,Sep,Philippines,PHL
+318.013,1964,Oct,Philippines,PHL
+384.39,1964,Nov,Philippines,PHL
+224.211,1964,Dec,Philippines,PHL
+185.24,1965,Jan,Philippines,PHL
+102.129,1965,Feb,Philippines,PHL
+131.826,1965,Mar,Philippines,PHL
+122.772,1965,Apr,Philippines,PHL
+189.117,1965,May,Philippines,PHL
+280.27,1965,Jun,Philippines,PHL
+301.161,1965,Jul,Philippines,PHL
+262.98,1965,Aug,Philippines,PHL
+248.86,1965,Sep,Philippines,PHL
+192.171,1965,Oct,Philippines,PHL
+184.09,1965,Nov,Philippines,PHL
+161.463,1965,Dec,Philippines,PHL
+102.042,1966,Jan,Philippines,PHL
+56.0005,1966,Feb,Philippines,PHL
+53.9561,1966,Mar,Philippines,PHL
+64.6573,1966,Apr,Philippines,PHL
+364.833,1966,May,Philippines,PHL
+145.074,1966,Jun,Philippines,PHL
+332.946,1966,Jul,Philippines,PHL
+283.151,1966,Aug,Philippines,PHL
+286.438,1966,Sep,Philippines,PHL
+243.093,1966,Oct,Philippines,PHL
+330.123,1966,Nov,Philippines,PHL
+236.652,1966,Dec,Philippines,PHL
+215.927,1967,Jan,Philippines,PHL
+107.351,1967,Feb,Philippines,PHL
+81.5463,1967,Mar,Philippines,PHL
+87.815,1967,Apr,Philippines,PHL
+127.887,1967,May,Philippines,PHL
+272.294,1967,Jun,Philippines,PHL
+271.417,1967,Jul,Philippines,PHL
+346.479,1967,Aug,Philippines,PHL
+207.669,1967,Sep,Philippines,PHL
+287.196,1967,Oct,Philippines,PHL
+217.822,1967,Nov,Philippines,PHL
+82.0877,1967,Dec,Philippines,PHL
+117.426,1968,Jan,Philippines,PHL
+62.6073,1968,Feb,Philippines,PHL
+49.3053,1968,Mar,Philippines,PHL
+49.6016,1968,Apr,Philippines,PHL
+100.994,1968,May,Philippines,PHL
+179.002,1968,Jun,Philippines,PHL
+342.434,1968,Jul,Philippines,PHL
+429.564,1968,Aug,Philippines,PHL
+276.394,1968,Sep,Philippines,PHL
+162.832,1968,Oct,Philippines,PHL
+131.777,1968,Nov,Philippines,PHL
+115.844,1968,Dec,Philippines,PHL
+61.3583,1969,Jan,Philippines,PHL
+24.7725,1969,Feb,Philippines,PHL
+37.2969,1969,Mar,Philippines,PHL
+62.5047,1969,Apr,Philippines,PHL
+126.692,1969,May,Philippines,PHL
+261.683,1969,Jun,Philippines,PHL
+312.425,1969,Jul,Philippines,PHL
+263.839,1969,Aug,Philippines,PHL
+269.932,1969,Sep,Philippines,PHL
+189.247,1969,Oct,Philippines,PHL
+167.373,1969,Nov,Philippines,PHL
+197.73,1969,Dec,Philippines,PHL
+111.005,1970,Jan,Philippines,PHL
+100.178,1970,Feb,Philippines,PHL
+96.9374,1970,Mar,Philippines,PHL
+59.2809,1970,Apr,Philippines,PHL
+131.602,1970,May,Philippines,PHL
+290.991,1970,Jun,Philippines,PHL
+246.711,1970,Jul,Philippines,PHL
+302.387,1970,Aug,Philippines,PHL
+285.926,1970,Sep,Philippines,PHL
+365.19,1970,Oct,Philippines,PHL
+290.516,1970,Nov,Philippines,PHL
+218.084,1970,Dec,Philippines,PHL
+135.384,1971,Jan,Philippines,PHL
+144.229,1971,Feb,Philippines,PHL
+130.311,1971,Mar,Philippines,PHL
+90.7782,1971,Apr,Philippines,PHL
+238.084,1971,May,Philippines,PHL
+348.575,1971,Jun,Philippines,PHL
+322.406,1971,Jul,Philippines,PHL
+241.684,1971,Aug,Philippines,PHL
+217.395,1971,Sep,Philippines,PHL
+442.431,1971,Oct,Philippines,PHL
+332.338,1971,Nov,Philippines,PHL
+248.769,1971,Dec,Philippines,PHL
+226.887,1972,Jan,Philippines,PHL
+74.0335,1972,Feb,Philippines,PHL
+150.356,1972,Mar,Philippines,PHL
+75.3498,1972,Apr,Philippines,PHL
+173.618,1972,May,Philippines,PHL
+376.408,1972,Jun,Philippines,PHL
+382.58,1972,Jul,Philippines,PHL
+336.033,1972,Aug,Philippines,PHL
+234.258,1972,Sep,Philippines,PHL
+118.323,1972,Oct,Philippines,PHL
+197.67,1972,Nov,Philippines,PHL
+144.708,1972,Dec,Philippines,PHL
+31.9339,1973,Jan,Philippines,PHL
+40.5936,1973,Feb,Philippines,PHL
+35.3519,1973,Mar,Philippines,PHL
+55.9089,1973,Apr,Philippines,PHL
+105.826,1973,May,Philippines,PHL
+175.37,1973,Jun,Philippines,PHL
+286.687,1973,Jul,Philippines,PHL
+320.164,1973,Aug,Philippines,PHL
+294.2,1973,Sep,Philippines,PHL
+389.236,1973,Oct,Philippines,PHL
+414.368,1973,Nov,Philippines,PHL
+220.393,1973,Dec,Philippines,PHL
+102.643,1974,Jan,Philippines,PHL
+115.492,1974,Feb,Philippines,PHL
+69.1067,1974,Mar,Philippines,PHL
+114.663,1974,Apr,Philippines,PHL
+167.469,1974,May,Philippines,PHL
+260.711,1974,Jun,Philippines,PHL
+315.252,1974,Jul,Philippines,PHL
+248.86,1974,Aug,Philippines,PHL
+147.965,1974,Sep,Philippines,PHL
+424.943,1974,Oct,Philippines,PHL
+308.34,1974,Nov,Philippines,PHL
+269.8,1974,Dec,Philippines,PHL
+182.91,1975,Jan,Philippines,PHL
+76.3101,1975,Feb,Philippines,PHL
+80.3729,1975,Mar,Philippines,PHL
+168.572,1975,Apr,Philippines,PHL
+144.469,1975,May,Philippines,PHL
+252.838,1975,Jun,Philippines,PHL
+220.525,1975,Jul,Philippines,PHL
+270.073,1975,Aug,Philippines,PHL
+236.832,1975,Sep,Philippines,PHL
+280.621,1975,Oct,Philippines,PHL
+169.493,1975,Nov,Philippines,PHL
+293.775,1975,Dec,Philippines,PHL
+168.8,1976,Jan,Philippines,PHL
+74.7575,1976,Feb,Philippines,PHL
+80.2674,1976,Mar,Philippines,PHL
+51.5648,1976,Apr,Philippines,PHL
+293.996,1976,May,Philippines,PHL
+261.354,1976,Jun,Philippines,PHL
+166.106,1976,Jul,Philippines,PHL
+318.819,1976,Aug,Philippines,PHL
+235.991,1976,Sep,Philippines,PHL
+199.011,1976,Oct,Philippines,PHL
+231.577,1976,Nov,Philippines,PHL
+171.504,1976,Dec,Philippines,PHL
+149.164,1977,Jan,Philippines,PHL
+154.874,1977,Feb,Philippines,PHL
+64.9845,1977,Mar,Philippines,PHL
+35.4916,1977,Apr,Philippines,PHL
+118.581,1977,May,Philippines,PHL
+197.527,1977,Jun,Philippines,PHL
+371.302,1977,Jul,Philippines,PHL
+390.51,1977,Aug,Philippines,PHL
+340.815,1977,Sep,Philippines,PHL
+130.167,1977,Oct,Philippines,PHL
+231.271,1977,Nov,Philippines,PHL
+56.6558,1977,Dec,Philippines,PHL
+79.6474,1978,Jan,Philippines,PHL
+84.9328,1978,Feb,Philippines,PHL
+72.5592,1978,Mar,Philippines,PHL
+120.601,1978,Apr,Philippines,PHL
+173.457,1978,May,Philippines,PHL
+192.955,1978,Jun,Philippines,PHL
+266.796,1978,Jul,Philippines,PHL
+315.858,1978,Aug,Philippines,PHL
+306.238,1978,Sep,Philippines,PHL
+288.359,1978,Oct,Philippines,PHL
+159.062,1978,Nov,Philippines,PHL
+192.345,1978,Dec,Philippines,PHL
+75.2544,1979,Jan,Philippines,PHL
+47.9504,1979,Feb,Philippines,PHL
+43.4667,1979,Mar,Philippines,PHL
+119.821,1979,Apr,Philippines,PHL
+220.309,1979,May,Philippines,PHL
+262.268,1979,Jun,Philippines,PHL
+303.241,1979,Jul,Philippines,PHL
+245.604,1979,Aug,Philippines,PHL
+214.337,1979,Sep,Philippines,PHL
+250.622,1979,Oct,Philippines,PHL
+162.334,1979,Nov,Philippines,PHL
+146.3,1979,Dec,Philippines,PHL
+148.163,1980,Jan,Philippines,PHL
+86.3798,1980,Feb,Philippines,PHL
+103.251,1980,Mar,Philippines,PHL
+67.5258,1980,Apr,Philippines,PHL
+131.5,1980,May,Philippines,PHL
+327.387,1980,Jun,Philippines,PHL
+296.257,1980,Jul,Philippines,PHL
+255.723,1980,Aug,Philippines,PHL
+223.6,1980,Sep,Philippines,PHL
+320.696,1980,Oct,Philippines,PHL
+309.569,1980,Nov,Philippines,PHL
+181.893,1980,Dec,Philippines,PHL
+190.115,1981,Jan,Philippines,PHL
+64.4608,1981,Feb,Philippines,PHL
+36.0505,1981,Mar,Philippines,PHL
+56.3232,1981,Apr,Philippines,PHL
+147.219,1981,May,Philippines,PHL
+271.059,1981,Jun,Philippines,PHL
+321.091,1981,Jul,Philippines,PHL
+173.579,1981,Aug,Philippines,PHL
+262.071,1981,Sep,Philippines,PHL
+254.722,1981,Oct,Philippines,PHL
+294.804,1981,Nov,Philippines,PHL
+145.395,1981,Dec,Philippines,PHL
+109.467,1982,Jan,Philippines,PHL
+105.057,1982,Feb,Philippines,PHL
+113.567,1982,Mar,Philippines,PHL
+86.9578,1982,Apr,Philippines,PHL
+143.639,1982,May,Philippines,PHL
+219.39,1982,Jun,Philippines,PHL
+273.057,1982,Jul,Philippines,PHL
+327.064,1982,Aug,Philippines,PHL
+208.669,1982,Sep,Philippines,PHL
+171.882,1982,Oct,Philippines,PHL
+151.511,1982,Nov,Philippines,PHL
+158.289,1982,Dec,Philippines,PHL
+87.2612,1983,Jan,Philippines,PHL
+14.3558,1983,Feb,Philippines,PHL
+33.7426,1983,Mar,Philippines,PHL
+15.5767,1983,Apr,Philippines,PHL
+61.9844,1983,May,Philippines,PHL
+157.113,1983,Jun,Philippines,PHL
+342.444,1983,Jul,Philippines,PHL
+320.17,1983,Aug,Philippines,PHL
+316.663,1983,Sep,Philippines,PHL
+308.313,1983,Oct,Philippines,PHL
+193.19,1983,Nov,Philippines,PHL
+172.737,1983,Dec,Philippines,PHL
+153.944,1984,Jan,Philippines,PHL
+114.904,1984,Feb,Philippines,PHL
+111.542,1984,Mar,Philippines,PHL
+137.882,1984,Apr,Philippines,PHL
+185.86,1984,May,Philippines,PHL
+326.076,1984,Jun,Philippines,PHL
+264.034,1984,Jul,Philippines,PHL
+282.488,1984,Aug,Philippines,PHL
+348.669,1984,Sep,Philippines,PHL
+304.616,1984,Oct,Philippines,PHL
+186.397,1984,Nov,Philippines,PHL
+146.041,1984,Dec,Philippines,PHL
+131.805,1985,Jan,Philippines,PHL
+77.1957,1985,Feb,Philippines,PHL
+76.314,1985,Mar,Philippines,PHL
+179.579,1985,Apr,Philippines,PHL
+218.774,1985,May,Philippines,PHL
+293.728,1985,Jun,Philippines,PHL
+364.984,1985,Jul,Philippines,PHL
+166.275,1985,Aug,Philippines,PHL
+334.803,1985,Sep,Philippines,PHL
+374.224,1985,Oct,Philippines,PHL
+204.16,1985,Nov,Philippines,PHL
+147.633,1985,Dec,Philippines,PHL
+202.577,1986,Jan,Philippines,PHL
+76.9338,1986,Feb,Philippines,PHL
+78.7692,1986,Mar,Philippines,PHL
+86.4733,1986,Apr,Philippines,PHL
+153.135,1986,May,Philippines,PHL
+203.224,1986,Jun,Philippines,PHL
+462.652,1986,Jul,Philippines,PHL
+356.205,1986,Aug,Philippines,PHL
+368.085,1986,Sep,Philippines,PHL
+351.087,1986,Oct,Philippines,PHL
+278.665,1986,Nov,Philippines,PHL
+114.506,1986,Dec,Philippines,PHL
+65.7248,1987,Jan,Philippines,PHL
+67.9661,1987,Feb,Philippines,PHL
+33.572,1987,Mar,Philippines,PHL
+23.7742,1987,Apr,Philippines,PHL
+80.9043,1987,May,Philippines,PHL
+191.862,1987,Jun,Philippines,PHL
+226.066,1987,Jul,Philippines,PHL
+309.998,1987,Aug,Philippines,PHL
+205.248,1987,Sep,Philippines,PHL
+242.614,1987,Oct,Philippines,PHL
+241.411,1987,Nov,Philippines,PHL
+203.181,1987,Dec,Philippines,PHL
+106.406,1988,Jan,Philippines,PHL
+109.533,1988,Feb,Philippines,PHL
+63.1487,1988,Mar,Philippines,PHL
+137.165,1988,Apr,Philippines,PHL
+170.952,1988,May,Philippines,PHL
+252.912,1988,Jun,Philippines,PHL
+257.129,1988,Jul,Philippines,PHL
+217.756,1988,Aug,Philippines,PHL
+261.969,1988,Sep,Philippines,PHL
+443.377,1988,Oct,Philippines,PHL
+318.555,1988,Nov,Philippines,PHL
+148.538,1988,Dec,Philippines,PHL
+184.194,1989,Jan,Philippines,PHL
+143.517,1989,Feb,Philippines,PHL
+182.99,1989,Mar,Philippines,PHL
+105.651,1989,Apr,Philippines,PHL
+271.153,1989,May,Philippines,PHL
+292.854,1989,Jun,Philippines,PHL
+286.771,1989,Jul,Philippines,PHL
+384.275,1989,Aug,Philippines,PHL
+250.181,1989,Sep,Philippines,PHL
+250.747,1989,Oct,Philippines,PHL
+154.442,1989,Nov,Philippines,PHL
+78.9538,1989,Dec,Philippines,PHL
+86.0684,1990,Jan,Philippines,PHL
+31.1862,1990,Feb,Philippines,PHL
+41.0529,1990,Mar,Philippines,PHL
+55.8129,1990,Apr,Philippines,PHL
+295.485,1990,May,Philippines,PHL
+316.879,1990,Jun,Philippines,PHL
+307.199,1990,Jul,Philippines,PHL
+325.214,1990,Aug,Philippines,PHL
+304.361,1990,Sep,Philippines,PHL
+246.126,1990,Oct,Philippines,PHL
+291.175,1990,Nov,Philippines,PHL
+119.258,1990,Dec,Philippines,PHL
+84.3706,1991,Jan,Philippines,PHL
+83.6896,1991,Feb,Philippines,PHL
+87.7454,1991,Mar,Philippines,PHL
+95.9104,1991,Apr,Philippines,PHL
+120.533,1991,May,Philippines,PHL
+207.943,1991,Jun,Philippines,PHL
+320.326,1991,Jul,Philippines,PHL
+342.481,1991,Aug,Philippines,PHL
+177.951,1991,Sep,Philippines,PHL
+227.965,1991,Oct,Philippines,PHL
+180.768,1991,Nov,Philippines,PHL
+96.2073,1991,Dec,Philippines,PHL
+66.4652,1992,Jan,Philippines,PHL
+24.4988,1992,Feb,Philippines,PHL
+21.3685,1992,Mar,Philippines,PHL
+33.9054,1992,Apr,Philippines,PHL
+109.229,1992,May,Philippines,PHL
+221.456,1992,Jun,Philippines,PHL
+350.105,1992,Jul,Philippines,PHL
+337.328,1992,Aug,Philippines,PHL
+274.296,1992,Sep,Philippines,PHL
+254.352,1992,Oct,Philippines,PHL
+160.388,1992,Nov,Philippines,PHL
+108.019,1992,Dec,Philippines,PHL
+72.5875,1993,Jan,Philippines,PHL
+102.534,1993,Feb,Philippines,PHL
+67.2379,1993,Mar,Philippines,PHL
+76.4378,1993,Apr,Philippines,PHL
+96.3544,1993,May,Philippines,PHL
+152.298,1993,Jun,Philippines,PHL
+276.069,1993,Jul,Philippines,PHL
+301.246,1993,Aug,Philippines,PHL
+239.919,1993,Sep,Philippines,PHL
+309.591,1993,Oct,Philippines,PHL
+279.036,1993,Nov,Philippines,PHL
+295.486,1993,Dec,Philippines,PHL
+141.423,1994,Jan,Philippines,PHL
+77.8492,1994,Feb,Philippines,PHL
+103.927,1994,Mar,Philippines,PHL
+142.495,1994,Apr,Philippines,PHL
+172.473,1994,May,Philippines,PHL
+353.524,1994,Jun,Philippines,PHL
+258.177,1994,Jul,Philippines,PHL
+274.738,1994,Aug,Philippines,PHL
+278.252,1994,Sep,Philippines,PHL
+147.658,1994,Oct,Philippines,PHL
+93.4185,1994,Nov,Philippines,PHL
+154.586,1994,Dec,Philippines,PHL
+105.104,1995,Jan,Philippines,PHL
+69.2191,1995,Feb,Philippines,PHL
+63.7294,1995,Mar,Philippines,PHL
+45.2464,1995,Apr,Philippines,PHL
+148.194,1995,May,Philippines,PHL
+227.343,1995,Jun,Philippines,PHL
+314.005,1995,Jul,Philippines,PHL
+314.794,1995,Aug,Philippines,PHL
+391.083,1995,Sep,Philippines,PHL
+302.741,1995,Oct,Philippines,PHL
+281.521,1995,Nov,Philippines,PHL
+310.23,1995,Dec,Philippines,PHL
+196.475,1996,Jan,Philippines,PHL
+111.259,1996,Feb,Philippines,PHL
+89.8635,1996,Mar,Philippines,PHL
+158.981,1996,Apr,Philippines,PHL
+168.571,1996,May,Philippines,PHL
+238.886,1996,Jun,Philippines,PHL
+242.367,1996,Jul,Philippines,PHL
+224.445,1996,Aug,Philippines,PHL
+279.928,1996,Sep,Philippines,PHL
+260.593,1996,Oct,Philippines,PHL
+327.257,1996,Nov,Philippines,PHL
+136.418,1996,Dec,Philippines,PHL
+113.564,1997,Jan,Philippines,PHL
+130.71,1997,Feb,Philippines,PHL
+73.8469,1997,Mar,Philippines,PHL
+63.6382,1997,Apr,Philippines,PHL
+226.483,1997,May,Philippines,PHL
+154.454,1997,Jun,Philippines,PHL
+328.204,1997,Jul,Philippines,PHL
+236.029,1997,Aug,Philippines,PHL
+209.911,1997,Sep,Philippines,PHL
+228.517,1997,Oct,Philippines,PHL
+104.875,1997,Nov,Philippines,PHL
+81.588,1997,Dec,Philippines,PHL
+41.1729,1998,Jan,Philippines,PHL
+18.9611,1998,Feb,Philippines,PHL
+28.6533,1998,Mar,Philippines,PHL
+32.6937,1998,Apr,Philippines,PHL
+146.097,1998,May,Philippines,PHL
+180.207,1998,Jun,Philippines,PHL
+141.347,1998,Jul,Philippines,PHL
+318.316,1998,Aug,Philippines,PHL
+223.119,1998,Sep,Philippines,PHL
+379.164,1998,Oct,Philippines,PHL
+369.614,1998,Nov,Philippines,PHL
+268.367,1998,Dec,Philippines,PHL
+255.689,1999,Jan,Philippines,PHL
+152.637,1999,Feb,Philippines,PHL
+243.992,1999,Mar,Philippines,PHL
+190.031,1999,Apr,Philippines,PHL
+195.563,1999,May,Philippines,PHL
+288.134,1999,Jun,Philippines,PHL
+368.283,1999,Jul,Philippines,PHL
+386.335,1999,Aug,Philippines,PHL
+290.332,1999,Sep,Philippines,PHL
+328.156,1999,Oct,Philippines,PHL
+268.211,1999,Nov,Philippines,PHL
+290.892,1999,Dec,Philippines,PHL
+163.777,2000,Jan,Philippines,PHL
+192.274,2000,Feb,Philippines,PHL
+190.03,2000,Mar,Philippines,PHL
+148.543,2000,Apr,Philippines,PHL
+253.578,2000,May,Philippines,PHL
+275.665,2000,Jun,Philippines,PHL
+272.336,2000,Jul,Philippines,PHL
+247.421,2000,Aug,Philippines,PHL
+242.125,2000,Sep,Philippines,PHL
+450.972,2000,Oct,Philippines,PHL
+294.536,2000,Nov,Philippines,PHL
+282.558,2000,Dec,Philippines,PHL
+172.509,2001,Jan,Philippines,PHL
+166.517,2001,Feb,Philippines,PHL
+178.533,2001,Mar,Philippines,PHL
+117.856,2001,Apr,Philippines,PHL
+178.173,2001,May,Philippines,PHL
+314.094,2001,Jun,Philippines,PHL
+365.725,2001,Jul,Philippines,PHL
+404.651,2001,Aug,Philippines,PHL
+208.917,2001,Sep,Philippines,PHL
+287.498,2001,Oct,Philippines,PHL
+292.858,2001,Nov,Philippines,PHL
+276.816,2001,Dec,Philippines,PHL
+108.515,2002,Jan,Philippines,PHL
+84.1358,2002,Feb,Philippines,PHL
+96.991,2002,Mar,Philippines,PHL
+71.1836,2002,Apr,Philippines,PHL
+178.752,2002,May,Philippines,PHL
+336.233,2002,Jun,Philippines,PHL
+345.846,2002,Jul,Philippines,PHL
+328.737,2002,Aug,Philippines,PHL
+268.501,2002,Sep,Philippines,PHL
+177.445,2002,Oct,Philippines,PHL
+162.84,2002,Nov,Philippines,PHL
+192.801,2002,Dec,Philippines,PHL
+104.876,2003,Jan,Philippines,PHL
+72.6529,2003,Feb,Philippines,PHL
+43.4931,2003,Mar,Philippines,PHL
+40.0946,2003,Apr,Philippines,PHL
+312.271,2003,May,Philippines,PHL
+316.503,2003,Jun,Philippines,PHL
+487.625,2003,Jul,Philippines,PHL
+311.567,2003,Aug,Philippines,PHL
+288.083,2003,Sep,Philippines,PHL
+295.449,2003,Oct,Philippines,PHL
+236.944,2003,Nov,Philippines,PHL
+169.048,2003,Dec,Philippines,PHL
+127.921,2004,Jan,Philippines,PHL
+81.2742,2004,Feb,Philippines,PHL
+79.1582,2004,Mar,Philippines,PHL
+82.1202,2004,Apr,Philippines,PHL
+277.038,2004,May,Philippines,PHL
+319.795,2004,Jun,Philippines,PHL
+299.769,2004,Jul,Philippines,PHL
+274.212,2004,Aug,Philippines,PHL
+169.574,2004,Sep,Philippines,PHL
+232.804,2004,Oct,Philippines,PHL
+183.497,2004,Nov,Philippines,PHL
+184.412,2004,Dec,Philippines,PHL
+128.157,2005,Jan,Philippines,PHL
+17.9266,2005,Feb,Philippines,PHL
+90.2497,2005,Mar,Philippines,PHL
+55.4231,2005,Apr,Philippines,PHL
+177.654,2005,May,Philippines,PHL
+268.558,2005,Jun,Philippines,PHL
+229.916,2005,Jul,Philippines,PHL
+301.412,2005,Aug,Philippines,PHL
+397.691,2005,Sep,Philippines,PHL
+313.273,2005,Oct,Philippines,PHL
+158.728,2005,Nov,Philippines,PHL
+297.523,2005,Dec,Philippines,PHL
+195.473,2006,Jan,Philippines,PHL
+128.461,2006,Feb,Philippines,PHL
+135.422,2006,Mar,Philippines,PHL
+71.6939,2006,Apr,Philippines,PHL
+187.768,2006,May,Philippines,PHL
+192.044,2006,Jun,Philippines,PHL
+303.868,2006,Jul,Philippines,PHL
+255.022,2006,Aug,Philippines,PHL
+247.584,2006,Sep,Philippines,PHL
+268.056,2006,Oct,Philippines,PHL
+170.766,2006,Nov,Philippines,PHL
+257.116,2006,Dec,Philippines,PHL
+214.036,2007,Jan,Philippines,PHL
+38.4651,2007,Feb,Philippines,PHL
+93.1389,2007,Mar,Philippines,PHL
+77.5574,2007,Apr,Philippines,PHL
+176.784,2007,May,Philippines,PHL
+160.187,2007,Jun,Philippines,PHL
+261.583,2007,Jul,Philippines,PHL
+300.585,2007,Aug,Philippines,PHL
+296.795,2007,Sep,Philippines,PHL
+305.593,2007,Oct,Philippines,PHL
+432.394,2007,Nov,Philippines,PHL
+237.106,2007,Dec,Philippines,PHL
+248.663,2008,Jan,Philippines,PHL
+201.295,2008,Feb,Philippines,PHL
+153.014,2008,Mar,Philippines,PHL
+161.88,2008,Apr,Philippines,PHL
+290.316,2008,May,Philippines,PHL
+258.397,2008,Jun,Philippines,PHL
+357.281,2008,Jul,Philippines,PHL
+345.901,2008,Aug,Philippines,PHL
+342.705,2008,Sep,Philippines,PHL
+257.094,2008,Oct,Philippines,PHL
+319.194,2008,Nov,Philippines,PHL
+176.686,2008,Dec,Philippines,PHL
+123.357,2009,Jan,Philippines,PHL
+156.33,2009,Feb,Philippines,PHL
+163.106,2009,Mar,Philippines,PHL
+228.409,2009,Apr,Philippines,PHL
+229.069,2009,May,Philippines,PHL
+355.746,2009,Jun,Philippines,PHL
+385.914,2009,Jul,Philippines,PHL
+207.002,2009,Aug,Philippines,PHL
+309.029,2009,Sep,Philippines,PHL
+314.167,2009,Oct,Philippines,PHL
+211.821,2009,Nov,Philippines,PHL
+93.7656,2009,Dec,Philippines,PHL
+147.433,2010,Jan,Philippines,PHL
+22.2695,2010,Feb,Philippines,PHL
+48.4392,2010,Mar,Philippines,PHL
+124.217,2010,Apr,Philippines,PHL
+171.418,2010,May,Philippines,PHL
+204.874,2010,Jun,Philippines,PHL
+285.535,2010,Jul,Philippines,PHL
+303.878,2010,Aug,Philippines,PHL
+222.885,2010,Sep,Philippines,PHL
+381.625,2010,Oct,Philippines,PHL
+334.305,2010,Nov,Philippines,PHL
+183.569,2010,Dec,Philippines,PHL
+134.107,2011,Jan,Philippines,PHL
+155.203,2011,Feb,Philippines,PHL
+163.661,2011,Mar,Philippines,PHL
+80.7877,2011,Apr,Philippines,PHL
+321.678,2011,May,Philippines,PHL
+376.948,2011,Jun,Philippines,PHL
+360.753,2011,Jul,Philippines,PHL
+387.017,2011,Aug,Philippines,PHL
+355.046,2011,Sep,Philippines,PHL
+284.866,2011,Oct,Philippines,PHL
+253.478,2011,Nov,Philippines,PHL
+340.097,2011,Dec,Philippines,PHL
+249.106,2012,Jan,Philippines,PHL
+224.318,2012,Feb,Philippines,PHL
+132.064,2012,Mar,Philippines,PHL
+122.989,2012,Apr,Philippines,PHL
+200.124,2012,May,Philippines,PHL
+386.724,2012,Jun,Philippines,PHL
+363.233,2012,Jul,Philippines,PHL
+299.977,2012,Aug,Philippines,PHL
+275.994,2012,Sep,Philippines,PHL
+356.881,2012,Oct,Philippines,PHL
+174.617,2012,Nov,Philippines,PHL
+208.407,2012,Dec,Philippines,PHL
+173.165,2013,Jan,Philippines,PHL
+161.033,2013,Feb,Philippines,PHL
+103.399,2013,Mar,Philippines,PHL
+126.172,2013,Apr,Philippines,PHL
+160.118,2013,May,Philippines,PHL
+302.813,2013,Jun,Philippines,PHL
+244.937,2013,Jul,Philippines,PHL
+304.458,2013,Aug,Philippines,PHL
+272.337,2013,Sep,Philippines,PHL
+273.875,2013,Oct,Philippines,PHL
+277.487,2013,Nov,Philippines,PHL
+192.412,2013,Dec,Philippines,PHL
+140.969,2014,Jan,Philippines,PHL
+70.9103,2014,Feb,Philippines,PHL
+137.034,2014,Mar,Philippines,PHL
+78.7527,2014,Apr,Philippines,PHL
+84.7706,2014,May,Philippines,PHL
+217.091,2014,Jun,Philippines,PHL
+310.703,2014,Jul,Philippines,PHL
+254.864,2014,Aug,Philippines,PHL
+392.104,2014,Sep,Philippines,PHL
+270.095,2014,Oct,Philippines,PHL
+170.087,2014,Nov,Philippines,PHL
+246.709,2014,Dec,Philippines,PHL
+177.285,2015,Jan,Philippines,PHL
+49.4737,2015,Feb,Philippines,PHL
+41.4961,2015,Mar,Philippines,PHL
+64.1854,2015,Apr,Philippines,PHL
+80.9203,2015,May,Philippines,PHL
+274.411,2015,Jun,Philippines,PHL
+282.168,2015,Jul,Philippines,PHL
+309.516,2015,Aug,Philippines,PHL
+314.826,2015,Sep,Philippines,PHL
+276.039,2015,Oct,Philippines,PHL
+163.133,2015,Nov,Philippines,PHL
+247.818,2015,Dec,Philippines,PHL
+59.5664,2016,Jan,Philippines,PHL
+95.4018,2016,Feb,Philippines,PHL
+23.4355,2016,Mar,Philippines,PHL
+44.28,2016,Apr,Philippines,PHL
+204.91,2016,May,Philippines,PHL
+233.705,2016,Jun,Philippines,PHL
+292.354,2016,Jul,Philippines,PHL
+262.967,2016,Aug,Philippines,PHL
+293.712,2016,Sep,Philippines,PHL
+448.089,2016,Oct,Philippines,PHL
+263.913,2016,Nov,Philippines,PHL
+210.396,2016,Dec,Philippines,PHL
